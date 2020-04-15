@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang='en'>
+
+<head>
+    <title>Project 1</title>
+    <meta charset="utf-8">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <main>
+        <h1>Will My Chickens Die From the Flu?</h1>
+        <div id="content">
+            <section>
+                <div class="chart-group">
+                    <label>View:</label>
+                    <select id="influenzaChoices">
+                        <option>Deaths vs. Cases</option>
+                        <option>Cases vs. At Risk</option>
+                        <option>Deaths vs. At Risk</option>
+                    </select>
+
+                    <div class="chartAndKey">
+                        <svg id='influenza' class='charts'></svg>
+                        <div id="pair">
+                            <svg id="keyFlu"></svg>
+                            <button id="resetFlu">Reset</button>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div id="tooltip" class="hidden">
+                    <div class="data-text" id="dateContainer">
+                        <p class="label date"><strong>Date:</strong></p>
+                    </div>
+                    <div class="data-text">
+                        <p class="label">At Risk:</p>
+                        <p class="numRisk">0</p>
+                    </div>
+                    <div class="data-text">
+                        <p class="label">Confirmed Cases:</p>
+                        <p class="numCases">0</p>
+                    </div>
+                    <div class="data-text">
+                        <p class="label">Deaths:</p>
+                        <p class="numDeaths">0</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="story">
+                <p>As humans, we tend to focus only on outbreaks (like this COVID-19) and their effects on people. We
+                    then forget about other diseases and how other animals may be affected. The Food and Agriculture
+                    Organization of the United Nations gathered data that looked into animal disease outbreaks from 2015
+                    to 2017 and investigated the number of animals at risk, the cases, and the deaths from a particular
+                    disease. The focus of the visualization on the left is on the <strong>Avian Influenza</strong>,
+                    better known as the
+                    bird flu, and how chickens have been affected.</p>
+                <p>From the data, there is a direct correlation between the number of cases of the bird flu found in
+                    domesticated chickens and the amount of deaths from it. For example, on June 6th 2016, there was an
+                    average of 86,000 cases of bird flu in chickens and then 86,000 recorded chicken deaths from it. The
+                    same can be said on July 31st 2017 when there were 80 cases and 80 deaths. Most of the other data
+                    points follow this same pattern, with only a few outliers mixed in. To further prove this point, the
+                    graph that depicts the amount of cases vs. the number of chickens at risk looks almost equivalent to
+                    the graph that shows number of deaths vs. chickens at risk. <strong>It can be concluded from the
+                        data that chickens that get the bird flu will most likely die from it.</strong></p>
+                <p>But how likely is it for a chicken to get the bird flu? According to the data, the number of chickens
+                    at risk of contracting the bird flu is consistently greater than the number of chickens that
+                    <i>actually</i> contract it. A prime example of this can be found on August 6th 2015, where there
+                    were 41,476 chickens at risk of getting the flu but only 946 confirmed cases. </p>
+                <p>So why does this matter? This data shows the seriousness of the Avian Influenza. Although there are
+                    often far more chickens at risk of getting it than there are actual cases, the fact that chickens
+                    that contract it are most likely going to die means we need to work to prevent the bird flu as much
+                    as possible. We rely heavily on chickens for their eggs and for their meat for our own consumption.
+                    If this disease spreads, it will wipe out large populations of chickens, which will impact our food
+                    supply and our economy. If we aren't careful, we also run the risk of the bird flu spreading to
+                    humans.</p>
+                <h3>Protect the chickens!</h3>
+            </section>
+        </div>
+    </main>
+    <script src='./main.js'></script>
+</body>
+
+</html>

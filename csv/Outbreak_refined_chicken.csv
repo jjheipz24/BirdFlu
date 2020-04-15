@@ -1,0 +1,879 @@
+latitude,longitude,region,country,admin1,localityName,localityQuality,observationDate,reportingDate,status,disease,type,species,sumAtRisk,sumCases,sumDeaths
+56.538381,16.119304,Europe,Sweden,Kalmar Laen,Kalmar,Exact,08-13-2017,08-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,4000,1600,0
+16.8,96.15,Asia,Myanmar,Yangon,Yangon,Exact,07-23-2017,07-31-2017,Confirmed,Influenza - Avian,Domestic, Chicken,25,6,6
+14.077525,98.196364,Asia,Myanmar,Taninthayi,We kyun htein thit,Exact,07-16-2017,07-25-2017,Confirmed,Influenza - Avian,Domestic, Chicken,25555,5440,5440
+22.807541,120.307975,Asia,Taiwan (Province of China),Taiwan Sheng,Gangshan District,Exact,07-13-2017,07-31-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1096,153,153
+-26.3,28.2,Africa,South Africa,Gauteng,Ekurhuleni,Exact,07-06-2017,07-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,370000,39,39
+-26.8,28.8,Africa,South Africa,Mpumalanga,"HPAI_H5N8_2017_002, Dipaleseng",Exact,06-20-2017,06-26-2017,Confirmed,Influenza - Avian,Domestic, Chicken,243000,25000,25000
+-26.9,28.6,Africa,South Africa,Mpumalanga,Dipaleseng,Exact,06-19-2017,06-22-2017,Confirmed,Influenza - Avian,Domestic, Chicken,24000,5000,5000
+23.220206,120.234848,Asia,Taiwan (Province of China),Taiwan Sheng,Xiaying District,Exact,06-15-2017,06-23-2017,Confirmed,Influenza - Avian,Domestic, Chicken,37000,2928,2928
+22.87278,120.31427,Asia,Taiwan (Province of China),Taiwan Sheng,Alian District,Exact,06-13-2017,06-23-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2252,44,44
+23.721533,120.257885,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,06-13-2017,06-23-2017,Confirmed,Influenza - Avian,Domestic, Chicken,12584,1576,1576
+23.862076,120.409937,Asia,Taiwan (Province of China),Taiwan Sheng,Zhutang Township,Exact,06-11-2017,06-23-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9340,710,710
+23.7098,120.25006,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,06-08-2017,06-16-2017,Confirmed,Influenza - Avian,Domestic, Chicken,14000,2767,2767
+6.5048,1.1839,Africa,Togo,Maritime,"Maritime,Togo",Exact,06-07-2017,07-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,35000,3600,3448
+24.012221,121.606669,Asia,Taiwan (Province of China),Taiwan Sheng,Hualien City,Exact,06-02-2017,06-23-2017,Confirmed,Influenza - Avian,Domestic, Chicken,32,10,10
+11.8682,8.2715,Africa,Nigeria,Kano,D/Kudu,Exact,05-29-2017,06-02-2017,Confirmed,Influenza - Avian,Domestic, Chicken,13000,800,800
+10.1873,7.6087,Africa,Nigeria,Kaduna,Igabi,Exact,05-28-2017,06-02-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1200,400,400
+23.584066,120.262667,Asia,Taiwan (Province of China),Taiwan Sheng,Beigang Township,Exact,05-25-2017,06-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8248,3300,3300
+23.79442,120.3097,Asia,Taiwan (Province of China),Taiwan Sheng,Lunbei Township,Exact,05-23-2017,06-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,10600,2135,2135
+23.716681,120.250281,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,05-20-2017,06-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9544,450,450
+22.633621,120.364069,Asia,Taiwan (Province of China),Taiwan Sheng,Fengshan District,Exact,05-17-2017,06-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,336,11,11
+-18.0912723,30.9216241,Africa,Zimbabwe,Mashonaland East,LANARK,Exact,05-17-2017,06-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2000000,7845,7845
+9.2177,12.446,Africa,Nigeria,Adamawa,Yola,Exact,05-15-2017,06-15-2017,Confirmed,Influenza - Avian,Domestic, Chicken,200,50,50
+23.850747,120.557778,Asia,Taiwan (Province of China),Taiwan Sheng,Dacheng Township,Exact,05-12-2017,06-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,18500,1083,1083
+23.728601,120.244655,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,05-08-2017,05-15-2017,Confirmed,Influenza - Avian,Domestic, Chicken,6353,16,16
+51.89,9.1,Europe,Germany,Nordrhein-Westfalen,Schieder-Schwalenberg,Exact,05-08-2017,05-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,13,10,10
+25.06313,121.44624,Asia,Taiwan (Province of China),Taiwan Sheng,Taishan District,Exact,05-07-2017,06-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,27,3,3
+25.030189,121.489521,Asia,Taiwan (Province of China),Taiwan Sheng,Wanhua District,Exact,05-07-2017,06-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,100,12,12
+23.728502,120.244385,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,05-07-2017,05-15-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9916,27,27
+25.030189,121.489521,Asia,Taiwan (Province of China),Taiwan Sheng,Wanhua Distrct,Exact,05-06-2017,06-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,204,3,3
+23.72809,120.24499,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,05-01-2017,05-08-2017,Confirmed,Influenza - Avian,Domestic, Chicken,14000,6041,6041
+22.803,120.565722,Asia,Taiwan (Province of China),Taiwan Sheng,Gaoshu Township,Exact,04-28-2017,05-08-2017,Confirmed,Influenza - Avian,Domestic, Chicken,20000,783,783
+58.796388,16.733243,Europe,Sweden,Soedermanlands Laen,Stigtomta,Exact,04-22-2017,04-25-2017,Confirmed,Influenza - Avian,Domestic, Chicken,50000,12500,755
+48.59143,21.061641,Europe,Slovakia,Kosice,Cecejovce,Exact,04-15-2017,04-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,15,15,15
+23.739926,120.242686,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Unknown,04-14-2017,05-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8066,2500,2500
+23.40648,120.20542,Asia,Taiwan (Province of China),Taiwan Sheng,Budai Township,Exact,04-11-2017,05-08-2017,Confirmed,Influenza - Avian,Domestic, Chicken,6088,0,0
+23.673214,120.612319,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,04-10-2017,06-16-2017,Confirmed,Influenza - Avian,Domestic, Chicken,28000,2500,2500
+23.219938,120.270578,Asia,Taiwan (Province of China),Taiwan Sheng,Xiaying Distrct,Exact,04-07-2017,06-16-2017,Confirmed,Influenza - Avian,Domestic, Chicken,21834,534,534
+44.4209,11.799384,Europe,Italy,Emilia-romagna,Mordano,Exact,04-07-2017,04-11-2017,Confirmed,Influenza - Avian,Domestic, Chicken,130773,50000,727
+23.686515,120.279682,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,04-05-2017,04-11-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11500,1253,1253
+23.739512,120.239687,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,04-05-2017,04-11-2017,Confirmed,Influenza - Avian,Domestic, Chicken,10277,0,0
+23.688737,120.267855,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,04-05-2017,04-11-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11479,80,80
+9.053006,10.1694,Africa,Nigeria,Plateau,Toro,Exact,04-05-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1500,46,46
+23.439368,120.263621,Asia,Taiwan (Province of China),Taiwan Sheng,Puzi City,Exact,04-03-2017,04-11-2017,Confirmed,Influenza - Avian,Domestic, Chicken,24602,180,180
+23.739437,120.225918,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,04-03-2017,04-11-2017,Confirmed,Influenza - Avian,Domestic, Chicken,28743,300,300
+36.08919,126.97563,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,04-02-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,33150,150,150
+36.08919,126.97563,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,04-02-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,33150,150,150
+9.020047,10.158586,Africa,Nigeria,Plateau,Toro,Exact,04-02-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1130,216,216
+22.633621,120.364069,Asia,Taiwan (Province of China),Taiwan Sheng,Fengshan District,Exact,04-01-2017,04-11-2017,Confirmed,Influenza - Avian,Domestic, Chicken,36,7,7
+25.0641,121.4466,Asia,Taiwan (Province of China),Taiwan Sheng,Taishan District,Exact,04-01-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,93,0,0
+10.1143,9.0678,Africa,Nigeria,Bauchi,Toro,Exact,04-01-2017,04-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,6800,600,600
+23.72705,120.507969,Asia,Taiwan (Province of China),Taiwan Sheng,Douliu City,Exact,03-31-2017,04-11-2017,Confirmed,Influenza - Avian,Domestic, Chicken,48968,160,160
+23.572736,120.212765,Asia,Taiwan (Province of China),Taiwan Sheng,Shuilin Township,Exact,03-31-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,16680,380,380
+23.785295,120.50508,Asia,Taiwan (Province of China),Taiwan Sheng,Citong Township,Exact,03-31-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2295,400,400
+10.1435,9.0679,Africa,Nigeria,Bauchi,Toro,Exact,03-31-2017,04-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,410,155,155
+36.31604,127.14071,Asia,Republic of Korea,Chungchongnam-do,Gongju-si,Exact,03-29-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,22092,26,26
+36.31604,127.14071,Asia,Republic of Korea,Chungchongnam-do,Gongju-si,Exact,03-29-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,22092,26,26
+23.752833,120.218847,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,03-29-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,30861,300,300
+35.16385,127.24977,Asia,Republic of Korea,Chollanam-do,Nonsan-si,Exact,03-28-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,29000,0,0
+35.16385,127.24977,Asia,Republic of Korea,Chollanam-do,Nonsan-si,Exact,03-28-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,29000,0,0
+52.98,8.07,Europe,Germany,Niedersachsen,Garrel,Unknown,03-28-2017,03-31-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9280,5700,18
+23.71707,120.69711,Asia,Taiwan (Province of China),Taiwan Sheng,Zhushan Township,Exact,03-27-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,3827,0,0
+23.228272,120.239985,Asia,Taiwan (Province of China),Taiwan Sheng,Xiaying District,Exact,03-27-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,5287,0,0
+23.976723,120.403918,Asia,Taiwan (Province of China),Taiwan Sheng,Erlin Township,Exact,03-27-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,21313,4324,4324
+53.12,7.91,Europe,Germany,Niedersachsen,Edewecht,Unknown,03-27-2017,03-31-2017,Confirmed,Influenza - Avian,Domestic, Chicken,36,7,7
+36.03558,126.946,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-26-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,17040,40,40
+36.03558,126.946,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-26-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,17040,40,40
+23.3912,120.51495,Asia,Taiwan (Province of China),Taiwan Sheng,Zhongpu Township,Exact,03-25-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8605,70,70
+23.53621,120.24731,Asia,Taiwan (Province of China),Taiwan Sheng,Liujiao Township,Exact,03-24-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,13649,300,300
+10.0899,9.053,Africa,Nigeria,Bauchi,Narabi,Exact,03-24-2017,03-29-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2415,32,32
+10.1096,9.034,Africa,Nigeria,Bauchi,Narabi,Exact,03-24-2017,03-29-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2300,283,283
+36.05668,126.96866,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-23-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,18000,0,0
+36.05668,126.96866,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-23-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,18000,0,0
+23.686515,120.279682,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,03-23-2017,04-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8349,0,0
+34.469,-85.375,Americas,United States of America,Georgia,Chattooga County,Unknown,03-23-2017,04-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,18000,0,0
+22.8997,120.3327,Asia,Taiwan (Province of China),Taiwan Sheng,Guanmiao District,Exact,03-23-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8879,640,640
+35.720475,140.646563,Asia,Japan,Tiba,Asahi-shi,Exact,03-23-2017,03-23-2017,Confirmed,Influenza - Avian,Domestic, Chicken,68000,26,26
+38.730119,141.021458,Asia,Japan,Miyagi,Kurihara-shi,Exact,03-23-2017,03-23-2017,Confirmed,Influenza - Avian,Domestic, Chicken,220000,45,45
+36.04334,126.96855,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-22-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,36000,0,0
+36.62037,126.98197,Asia,Republic of Korea,Chungchongnam-do,Iksan-si,Exact,03-22-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,33050,50,50
+36.62037,126.98197,Asia,Republic of Korea,Chungchongnam-do,Iksan-si,Exact,03-22-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,33050,50,50
+36.04334,126.96855,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-22-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,36000,0,0
+23.713343,120.289186,Asia,Taiwan (Province of China),Taiwan Sheng,Baozhong Township,Exact,03-21-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,10314,600,600
+23.502794,120.272764,Asia,Taiwan (Province of China),Taiwan Sheng,Liujiao Township,Exact,03-21-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1426,1310,1310
+36.25984,127.09784,Asia,Republic of Korea,Chungchongnam-do,Nonsan-si,Exact,03-19-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,898100,20,20
+36.25984,127.09787,Asia,Republic of Korea,Chungchongnam-do,Nonsan-si,Exact,03-19-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,898100,20,20
+23.656164,120.19941,Asia,Taiwan (Province of China),Taiwan Sheng,Sihu Township,Exact,03-19-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,28804,440,440
+10.1146,9.0822,Africa,Nigeria,Bauchi,Narabi,Exact,03-19-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,6717,1177,1177
+36.06217,126.96209,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-17-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,150045,45,45
+36.06217,126.96209,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-17-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,150045,45,45
+52.96,8.04,Europe,Germany,Niedersachsen,Garrel,Exact,03-17-2017,03-23-2017,Confirmed,Influenza - Avian,Domestic, Chicken,5257,1300,5
+22.721833,120.476556,Asia,Taiwan (Province of China),Taiwan Sheng,Jiuru Township,Exact,03-16-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,28150,5000,5000
+6.03456,102.12494,Asia,Malaysia,Kelantan,Pasir Mas,Exact,03-15-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,45,6,6
+6.171619,102.229993,Asia,Malaysia,Kelantan,Tumpat,Exact,03-15-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,3,1,1
+9.9299,8.87507,Africa,Nigeria,Plateau,Rantya Low cost,Exact,03-15-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1000,110,110
+23.618128,120.2361,Asia,Taiwan (Province of China),Taiwan Sheng,Sihu Township,Exact,03-15-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,44754,0,0
+23.615791,120.240303,Asia,Taiwan (Province of China),Taiwan Sheng,Sihu Township,Exact,03-15-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7734,0,0
+23.532947,120.2,Asia,Taiwan (Province of China),Taiwan Sheng,Kouhu Township,Exact,03-15-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,16661,0,0
+5.5424,102.165,Asia,Malaysia,Kelantan,Pasir Puteh,Exact,03-14-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7,7,7
+6.015501,102.202949,Asia,Malaysia,Kelantan,Kota Bharu,Exact,03-14-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,70,33,23
+9.97818,8.81678,Africa,Nigeria,Plateau,Jos,Exact,03-14-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2864,191,191
+23.758606,120.232778,Asia,Taiwan (Province of China),Taiwan Sheng,Mailiao Township,Exact,03-14-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,13368,16,16
+23.68599,120.27872,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,03-14-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9629,60,60
+22.95508,120.51639,Asia,Taiwan (Province of China),Taiwan Sheng,Qishan District,Exact,03-13-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,4457,0,0
+6.1146,102.1578,Asia,Malaysia,Kelantan,Pasir Mas,Exact,03-12-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7,7,7
+6.1146,102.1578,Asia,Malaysia,Kelantan,Pasir Mas,Exact,03-12-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11,11,11
+6.1146,102.1578,Asia,Malaysia,Kelantan,Pasir Mas,Exact,03-12-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,30,25,25
+23.62806,120.51139,Asia,Taiwan (Province of China),Taiwan Sheng,Gukeng Township,Exact,03-12-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,33296,40,40
+23.75191,120.22028,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,03-12-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,15147,380,380
+6.088533,102.223133,Asia,Malaysia,Kelantan,Kota Bharu,Exact,03-11-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,10,5,3
+9.58157,8.20821,Africa,Nigeria,Kaduna,Gada Biu,Exact,03-11-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1445,14,14
+6.038606,102.241539,Asia,Malaysia,Kelantan,Kota Bharu,Exact,03-09-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,25,17,17
+23.935568,120.333452,Asia,Taiwan (Province of China),Taiwan Sheng,Fangyuan Township,Exact,03-09-2017,03-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1277,0,0
+6.05289,102.2158,Asia,Malaysia,Kelantan,Kota Bharu,Exact,03-08-2017,03-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7,2,2
+36.09049,127.00632,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-06-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,55005,5,5
+36.09049,127.00632,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-06-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,55005,5,5
+22.876936,120.295828,Asia,Taiwan (Province of China),Taiwan Sheng,Luzhu District,Exact,03-06-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11522,3180,3180
+35.187,-87.025,Americas,United States of America,Tennessee,Giles County,Exact,03-06-2017,03-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,16500,0,0
+36.100538,127.012238,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-05-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,44000,0,0
+36.100538,127.012238,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,03-05-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,44000,0,0
+5.4845,10.5903,Africa,Cameroon,Ouest,Mangoum,Exact,03-05-2017,03-31-2017,Confirmed,Influenza - Avian,Domestic, Chicken,6320,1487,1487
+23.738237,120.218784,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,03-04-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,21500,2197,2197
+23.684036,120.191424,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,03-04-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,45000,6288,6288
+37.703962,126.853195,Asia,Republic of Korea,Kyonggi-do,Goyang-si,Exact,03-03-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2145,220,220
+23.7536,120.21897,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,03-03-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,5200,544,544
+35.44335,126.58847,Asia,Republic of Korea,Chollabuk-do,Gochang-gun,Exact,03-02-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,83067,67,67
+35.44335,126.58847,Asia,Republic of Korea,Chollabuk-do,Gochang-gun,Exact,03-02-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,83067,67,67
+23.73051,120.237271,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,03-02-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,16000,59,59
+23.78528,120.23528,Asia,Taiwan (Province of China),Taiwan Sheng,Mailiao Township,Exact,03-02-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,12000,1213,1213
+23.6123,120.192825,Asia,Taiwan (Province of China),Taiwan Sheng,Kouhu Township,Exact,02-28-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,30000,4652,4652
+6.060826,102.242973,Asia,Malaysia,Kelantan,Kg.Pulau Tebu,Unknown,02-28-2017,03-08-2017,Confirmed,Influenza - Avian,Domestic, Chicken,26,16,15
+56.354465,38.207777,Europe,Russian Federation,Moskovskaya Oblast,Smena,Unknown,02-28-2017,03-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,218521,12796,12796
+9.99188,8.82948,Africa,Nigeria,Plateau,Zaria rd,Exact,02-28-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1550,25,25
+36.10647,127.01165,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,02-27-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,65000,0,0
+36.10647,127.01165,Asia,Republic of Korea,Chollabuk-do,Iksan-si,Exact,02-27-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,65000,0,0
+23.597722,120.244402,Asia,Taiwan (Province of China),Taiwan Sheng,Shuilin Township,Exact,02-27-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,19000,2122,2122
+23.742488,120.237438,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-27-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,5111,0,0
+22.90019,120.3385,Asia,Taiwan (Province of China),Taiwan Sheng,Guanmiao District,Exact,02-27-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,22000,1915,1915
+23.738386,120.216324,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-26-2017,03-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,32000,2446,2446
+23.236534,120.282562,Asia,Taiwan (Province of China),Taiwan Sheng,Xiaying District,Exact,02-25-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,19400,3100,3100
+23.754997,120.23065,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-24-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,15000,4354,4354
+9.959026,8.871192,Africa,Nigeria,Plateau,Farin Gada,Exact,02-24-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,400,50,50
+23.34632,120.30405,Asia,Taiwan (Province of China),Taiwan Sheng,Houbi District,Exact,02-23-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,26600,2014,2014
+9.84504,8.87562,Africa,Nigeria,Plateau,Bukuru Low cost,Exact,02-23-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2930,62,62
+9.84502,8.8756,Africa,Nigeria,Plateau,Zarmagandan,Exact,02-23-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1010,75,75
+9.82167,8.85207,Africa,Nigeria,Plateau,Zarmagandan,Exact,02-23-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,3962,25,25
+8.9641,8.2782,Africa,Nigeria,Nassarawa,Akwanga,Exact,02-23-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,3200,9,9
+50.6442,15.9889,Europe,Czech Republic,Vychodocesky,Bernartice,Exact,02-23-2017,02-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8,5,5
+50.6397,15.9866,Europe,Czech Republic,Vychodocesky,Bernartice,Exact,02-23-2017,02-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,20,6,6
+50.6442,15.9889,Europe,Czech Republic,Vychodocesky,Bernartice,Exact,02-23-2017,02-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8,5,5
+36.489215,126.745355,Asia,Republic of Korea,Chungchongnam-do,Cheongyang-gun,Exact,02-22-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,81150,150,150
+36.489215,126.745355,Asia,Republic of Korea,Chungchongnam-do,Cheongyang-gun,Exact,02-22-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,81150,150,150
+23.638006,120.200783,Asia,Taiwan (Province of China),Taiwan Sheng,Sihu Township,Exact,02-22-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7690,1301,1301
+23.731083,120.237466,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-22-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,6650,1232,1232
+23.7611,120.22778,Asia,Taiwan (Province of China),Taiwan Sheng,Mailiao Township,Exact,02-22-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9770,1954,1954
+49.0892,15.403,Europe,Czech Republic,Jihocesky,Dacice,Exact,02-22-2017,02-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,17,6,6
+49.8439,13.4375,Europe,Czech Republic,Zapadocesky,Bohy,Exact,02-22-2017,02-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,20,7,7
+49.0892,15.403,Europe,Czech Republic,Jihocesky,Dacice,Exact,02-22-2017,02-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,17,6,6
+49.8439,13.4375,Europe,Czech Republic,Zapadocesky,Bohy,Exact,02-22-2017,02-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,20,7,7
+23.75013,120.23032,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-21-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,16600,1499,1499
+23.65319,120.17795,Asia,Taiwan (Province of China),Taiwan Sheng,Sihu Township,Exact,02-21-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,21,4,4
+23.78466,120.24429,Asia,Taiwan (Province of China),Taiwan Sheng,Mailiao Township,Exact,02-21-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9500,383,383
+23.76601,120.24216,Asia,Taiwan (Province of China),Taiwan Sheng,Mailiao Township,Exact,02-21-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8500,2460,2460
+43.658751,-0.806722,Europe,France,Aquitaine,Donzacq,Exact,02-21-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8400,0,0
+23.7362,120.21845,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-20-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,18900,3314,3314
+43.351665,-0.630659,Europe,France,Aquitaine,LAHOURCADE,Exact,02-20-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8800,0,0
+23.735578,120.241605,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-19-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,14000,1554,1554
+43.712704,-0.788013,Europe,France,Aquitaine,LAHOSSE,Exact,02-18-2017,03-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,21460,0,0
+23.598569,120.228144,Asia,Taiwan (Province of China),Taiwan Sheng,Shuilin Township,Exact,02-17-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,31000,2531,2531
+23.76209,120.468642,Asia,Taiwan (Province of China),Taiwan Sheng,Xiluo Township,Unknown,02-17-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,35000,9510,9510
+23.89725,120.323417,Asia,Taiwan (Province of China),Taiwan Sheng,Fangyuan Township,Unknown,02-17-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,22700,4276,4276
+23.6777,120.266,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,02-17-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,16000,730,730
+23.2413,120.283,Asia,Taiwan (Province of China),Taiwan Sheng,Xiaying District,Exact,02-16-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9000,1218,1218
+25.03067,121.48937,Asia,Taiwan (Province of China),Taiwan Sheng,Wanhua District,Unknown,02-15-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2450,0,0
+23.2318,120.208,Asia,Taiwan (Province of China),Taiwan Sheng,Shuilin Township,Exact,02-15-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,23500,0,0
+9.8101,8.9077,Africa,Nigeria,Plateau,Jos,Exact,02-15-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2500,66,66
+23.11669,120.3297,Asia,Taiwan (Province of China),Taiwan Sheng,Shanhua District,Unknown,02-14-2017,03-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7885,0,0
+51.77,8.45,Europe,Germany,Nordrhein-Westfalen,DelbrÃƒÂ¼ck,Unknown,02-14-2017,02-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,107558,245,245
+9.9203,8.7342,Africa,Nigeria,Plateau,State Low cost,Exact,02-14-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1200,51,51
+9.8717,8.7293,Africa,Nigeria,Plateau,Bassa,Exact,02-14-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1500,10,10
+23.4383,120.239,Asia,Taiwan (Province of China),Taiwan Sheng,Puzi City,Exact,02-13-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1000,173,173
+23.6844,120.25,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,02-13-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,402,402,402
+48.317415,16.940653,Europe,Slovakia,Bratislava,Vysoka pri Morave,Unknown,02-13-2017,02-17-2017,Confirmed,Influenza - Avian,Domestic, Chicken,46,28,28
+8.8295,9.99181,Africa,Nigeria,Plateau,Jos,Exact,02-13-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7380,14,14
+9.8961,8.8162,Africa,Nigeria,Plateau,Jos,Exact,02-12-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,22524,89,89
+9.8675,8.816,Africa,Nigeria,Plateau,Jos,Exact,02-11-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,3579,70,70
+23.742,120.241,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-10-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7125,3142,3142
+6.7396,6.0966,Africa,Nigeria,Edo,Esan,Exact,02-10-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8100,10,10
+37.858883,126.994915,Asia,Republic of Korea,Kyonggi-do,Yangju-si,Exact,02-09-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,17140,70,70
+10.7777,7.7939,Africa,Nigeria,Kaduna,Igabi,Exact,02-08-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,12000,2000,2000
+35.888219,126.90173,Asia,Republic of Korea,Chollabuk-do,Gimje-si,Exact,02-06-2017,05-12-2017,Confirmed,Influenza - Avian,Domestic, Chicken,110050,50,50
+35.888219,126.90173,Asia,Republic of Korea,Chollabuk-do,Gimje-si,Exact,02-06-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,110050,50,50
+33.2206,130.157497,Asia,Japan,Saga,Kouhoku-machi,Exact,02-04-2017,02-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,70783,40,40
+49.8578,18.5399,Europe,Czech Republic,Severomoravsky,OrlovÃƒÂ¡,Unknown,02-04-2017,02-08-2017,Confirmed,Influenza - Avian,Domestic, Chicken,50,5,5
+50.044,14.1305,Europe,Czech Republic,Praha,HlÃƒÂ¡snÃƒÂ¡ TrebÃƒÂ¡n,Unknown,02-04-2017,02-08-2017,Confirmed,Influenza - Avian,Domestic, Chicken,35,5,5
+23.7615,120.245,Asia,Taiwan (Province of China),Taiwan Sheng,Mailiao Township,Exact,02-03-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,22734,720,720
+23.7479,120.229,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,02-02-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9250,1790,1790
+53.42,10.67,Europe,Germany,Mecklenburg-Vorpommern,Schwanheide,Exact,01-30-2017,02-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,106306,615,615
+50.33,11.64,Europe,Germany,Bayern,Bad Steben,Exact,01-28-2017,02-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,22,14,14
+8.896389,7.243056,Africa,Nigeria,Abuja,Kuje,Exact,01-28-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,130000,265,265
+49.8422,18.2815,Europe,Czech Republic,Severomoravsky,Ostrava - Svinov,Exact,01-28-2017,02-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,20,3,3
+43.5867,-0.507778,Europe,France,Aquitaine,Mant,Exact,01-27-2017,02-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,27750,0,0
+49.38778,19.38658,Europe,Slovakia,Zilna,Breza,Unknown,01-26-2017,02-05-2017,Confirmed,Influenza - Avian,Domestic, Chicken,44,3,2
+43.5031,-0.066389,Europe,France,Aquitaine,Monpezat,Exact,01-26-2017,02-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,4400,0,0
+36.58872,52.46211,Asia,Iran  (Islamic Republic of),Mazandaran,Baran jooje Farm,Exact,01-25-2017,02-13-2017,Confirmed,Influenza - Avian,Domestic, Chicken,29503,6000,83
+44.964074,12.282057,Europe,Italy,Veneto,Porto Viro,Unknown,01-25-2017,01-26-2017,Confirmed,Influenza - Avian,Domestic, Chicken,37000,280,280
+38.017377,127.332515,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,01-24-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,106602,99,99
+38.017377,127.332515,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,01-24-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11990,11840,11840
+37.911512,127.274172,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,01-24-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,14610,0,0
+46.9941,20.3783,Europe,Hungary,Jasz-nagykun-szolnok,MezohÃƒÂ©k,Exact,01-24-2017,02-24-2017,Confirmed,Influenza - Avian,Domestic, Chicken,120000,280,200
+43.6292,-0.286944,Europe,France,Aquitaine,LATRILLE,Exact,01-24-2017,02-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1000,0,0
+43.576944,-0.376667,Europe,France,Aquitaine,PIMBO,Exact,01-24-2017,02-03-2017,Confirmed,Influenza - Avian,Domestic, Chicken,17500,0,0
+9.8631,8.8639,Africa,Nigeria,Plateau,Kufang,Exact,01-24-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,903,18,18
+32.163975,131.473573,Asia,Japan,Miyazaki,Kijo-cho,Unknown,01-24-2017,01-25-2017,Confirmed,Influenza - Avian,Domestic, Chicken,168400,150,150
+9.916667,8.9,Africa,Nigeria,Plateau,Jos north,Exact,01-23-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,4000,27,27
+9.916667,8.9,Africa,Nigeria,Plateau,Jos north,Exact,01-23-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,230,2,2
+36.5248,59.2155,Asia,Iran  (Islamic Republic of),Khorasan,Toos Farm,Exact,01-22-2017,02-13-2017,Confirmed,Influenza - Avian,Domestic, Chicken,58700,3250,1000
+23.652518,120.255147,Asia,Taiwan (Province of China),Taiwan Sheng,Sihu Township,Exact,01-22-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1500,371,371
+37.176473,126.770525,Asia,Republic of Korea,Kyonggi-do,Hwaseong-si,Exact,01-21-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,30157,203,203
+9.4319,105.5116,Asia,Viet Nam,Bac Lieu,Vinh Phu A,Exact,01-21-2017,01-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2785,700,400
+37.168991,126.870612,Asia,Republic of Korea,Kyonggi-do,Hwaseong-si,Exact,01-20-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,29845,10,10
+37.12799,49.30906,Asia,Iran  (Islamic Republic of),Gilan,Supertoyure Farm,Exact,01-20-2017,02-13-2017,Confirmed,Influenza - Avian,Domestic, Chicken,73242,20100,13000
+9.9306,8.7146,Africa,Nigeria,Plateau,Kufang,Exact,01-20-2017,01-30-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1500,60,60
+43.3547,0.3181,Europe,France,Midi-Pyrenees,BERNADETS DEBAT,Exact,01-20-2017,01-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8800,0,0
+9.9346,8.7439,Africa,Nigeria,Plateau,Kufang,Exact,01-18-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,2500,350,20
+47.8139,17.4933,Europe,Hungary,Gyor-moson-sopron,Ãƒï¿½svÃƒÂ¡nyrÃƒÂ¡rÃƒÂ³,Exact,01-17-2017,02-24-2017,Confirmed,Influenza - Avian,Domestic, Chicken,28999,6000,5900
+43.595833,-0.325833,Europe,France,Aquitaine,MIRAMONT SENSACQ,Exact,01-17-2017,01-27-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11200,0,0
+43.576944,-0.376667,Europe,France,Aquitaine,PIMBO,Unknown,01-17-2017,01-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,19200,0,0
+23.71407,120.29334,Asia,Taiwan (Province of China),Taiwan Sheng,Baozhong Township,Exact,01-16-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,10000,9000,9000
+37.032359,127.290132,Asia,Republic of Korea,Kyonggi-do,Ansung-si,Exact,01-14-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,108687,80,80
+23.780886,120.307984,Asia,Taiwan (Province of China),Taiwan Sheng,Lunbei Township,Exact,01-14-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,19000,8271,8271
+35.506132,136.781345,Asia,Japan,Gifu,Yamagata-shi,Exact,01-14-2017,01-16-2017,Confirmed,Influenza - Avian,Domestic, Chicken,78184,100,100
+43.6397,-0.485556,Europe,France,Aquitaine,Samadet,Unknown,01-14-2017,01-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,4200,25,25
+23.7272,120.244,Asia,Taiwan (Province of China),Taiwan Sheng,Dongshi Township,Exact,01-13-2017,03-01-2017,Confirmed,Influenza - Avian,Domestic, Chicken,20000,697,697
+43.3347,0.2881,Europe,France,Midi-Pyrenees,ANTIN,Unknown,01-13-2017,01-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,12500,0,0
+43.6747,-0.355,Europe,France,Aquitaine,BAHUS SOUBIRAN,Unknown,01-13-2017,01-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,6000,100,100
+43.4297,0.4706,Europe,France,Midi-Pyrenees,SAINT ELIX THEUX,Unknown,01-13-2017,01-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,12000,0,0
+37.891459,127.007609,Asia,Republic of Korea,Kyonggi-do,Yangju-si,Exact,01-12-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,9287,227,227
+38.138739,127.066735,Asia,Republic of Korea,Kyonggi-do,Yeonchun-gun,Exact,01-12-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8670,30,30
+24.8106,121.79,Asia,Taiwan (Province of China),Taiwan Sheng,Jiaoxi Township,Exact,01-12-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,3815,0,0
+43.6397,-0.485556,Europe,France,Aquitaine,Samadet,Unknown,01-12-2017,01-20-2017,Confirmed,Influenza - Avian,Domestic, Chicken,5720,69,69
+23.757828,120.247036,Asia,Taiwan (Province of China),Taiwan Sheng,Mailiao Township,Exact,01-11-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,24000,7368,7368
+36.916453,127.049128,Asia,Republic of Korea,Kyonggi-do,Asan-si,Exact,01-10-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,100013,13,13
+49.062168,21.41713,Europe,Slovakia,Presov,Chmelov (Podhrabina),Exact,01-10-2017,01-19-2017,Confirmed,Influenza - Avian,Domestic, Chicken,25,14,14
+37.12087,127.416486,Asia,Republic of Korea,Kyonggi-do,Ansung-si,Exact,01-09-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,144,30,30
+36.964371,127.238262,Asia,Republic of Korea,Kyonggi-do,Ansung-si,Exact,01-09-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,99491,3887,3887
+23.639212,120.302376,Asia,Taiwan (Province of China),Taiwan Sheng,Yuanchang Township,Exact,01-09-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,20000,3199,3199
+32.465471,34.997862,Asia,Israel,Haifa,GAN HASHOMERON,Unknown,01-09-2017,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,27250,0,0
+37.015449,127.194017,Asia,Republic of Korea,Kyonggi-do,Ansung-si,Exact,01-08-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,137190,12,12
+43.2628,46.2498,Europe,Russian Federation,Chechnya Rep.,Ojskhara,Unknown,01-08-2017,01-26-2017,Confirmed,Influenza - Avian,Domestic, Chicken,80,79,79
+32.444694,34.975578,Asia,Israel,Haifa,TALME EL''AZAR,Unknown,01-08-2017,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,8296,0,0
+37.855699,126.9792,Asia,Republic of Korea,Kyonggi-do,Yangju-si,Exact,01-07-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,12948,1118,1118
+36.917203,127.069393,Asia,Republic of Korea,Kyonggi-do,Asan-si,Exact,01-07-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,121530,830,830
+13.48,2.14,Africa,Niger,Niamey,Niamey,Exact,01-07-2017,02-21-2017,Confirmed,Influenza - Avian,Domestic, Chicken,33537,4893,2993
+37.502668,127.069393,Asia,Republic of Korea,Seoul,Hoengsung-gun,Exact,01-06-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,13,12,12
+23.75389,120.22056,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,01-06-2017,02-06-2017,Confirmed,Influenza - Avian,Domestic, Chicken,500,467,467
+33.085025,35.312372,Asia,Israel,Northern,SHETULA,Unknown,01-06-2017,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,4056,0,0
+36.725066,127.127054,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,01-05-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,50085,85,85
+37.843168,127.001693,Asia,Republic of Korea,Kyonggi-do,Yangju-si,Exact,01-05-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,24101,200,200
+23.764721,120.249298,Asia,Taiwan (Province of China),Taiwan Sheng,Mailiao Township,Unknown,01-05-2017,01-09-2017,Confirmed,Influenza - Avian,Domestic, Chicken,3738,1066,1066
+37.164385,126.853916,Asia,Republic of Korea,Kyonggi-do,Hwasung-si,Exact,01-03-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,62350,1100,1100
+38.006988,128.345699,Asia,Republic of Korea,Kang-won-do,Inje-si,Exact,01-03-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,28407,7,7
+51.89,11.72,Europe,Germany,Sachsen-Anhalt,StaÃƒÅ¸furt,Unknown,01-03-2017,01-09-2017,Confirmed,Influenza - Avian,Domestic, Chicken,33330,70,70
+33.032723,35.321941,Asia,Israel,Northern,ELQOSH,Unknown,01-03-2017,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,2456,0,0
+36.789874,126.409711,Asia,Republic of Korea,Chungchongnam-do,Seosan-si,Exact,01-02-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,20,10,10
+37.172413,126.855175,Asia,Republic of Korea,Kyonggi-do,Hwaseong-si,Exact,01-01-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,300451,1830,1830
+37.172413,126.855175,Asia,Republic of Korea,Kyonggi-do,Hwaseong-si,Exact,01-01-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,285082,50318,50318
+37.044239,127.213639,Asia,Republic of Korea,Kyonggi-do,Ansung-si,Exact,01-01-2017,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,376570,130,130
+23.661431,120.504471,Asia,Taiwan (Province of China),Taiwan Sheng,Dounan Township,Unknown,01-01-2017,01-09-2017,Confirmed,Influenza - Avian,Domestic, Chicken,24121,258,258
+36.88054,127.238209,Asia,Republic of Korea,Kyonggi-do,Cheonan-si,Exact,12-31-2016,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,212395,144,144
+31.327781,34.558087,Asia,Israel,Southern District,PATTISH,Unknown,12-31-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,90000,0,0
+36.999478,127.293885,Asia,Republic of Korea,Kyonggi-do,Ansung-si,Exact,12-30-2016,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,39300,24,24
+33.052265,35.499688,Asia,Israel,Northern,ALMA,Unknown,12-30-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,3400,0,0
+43.629733,-0.261588,Europe,France,Midi-Pyrenees,Segos,Exact,12-30-2016,01-09-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11,0,0
+36.905543,127.121763,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-28-2016,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,25690,70,70
+37.016137,127.166551,Asia,Republic of Korea,Kyonggi-do,Ansung-si,Exact,12-28-2016,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,42039,505,505
+35.673868,126.810983,Asia,Republic of Korea,Chollabuk-do,Jeongeup-si,Exact,12-27-2016,04-14-2017,Confirmed,Influenza - Avian,Domestic, Chicken,15719,19,19
+33.052265,35.499688,Asia,Israel,Northern,ALMA,Unknown,12-27-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,5300,0,0
+25.0641,121.4466,Asia,Taiwan (Province of China),Taiwan Sheng,Taishan District,Unknown,12-27-2016,01-09-2017,Confirmed,Influenza - Avian,Domestic, Chicken,388,52,52
+33.056217,35.235249,Asia,Israel,Northern,GOREN,Unknown,12-26-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,2208,0,0
+33.214437,35.544207,Asia,Israel,Northern,MARGALIYYOT,Unknown,12-26-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,3664,0,0
+33.085025,35.312372,Asia,Israel,Northern,SHETULA,Unknown,12-26-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,2456,0,0
+46.241202,-0.414279,Europe,France,Poitou-Charentes,FORS,Exact,12-26-2016,01-09-2017,Confirmed,Influenza - Avian,Domestic, Chicken,21,6,5
+43.7258,-0.321667,Europe,France,Aquitaine,Duhort Bachen,Exact,12-26-2016,12-30-2016,Confirmed,Influenza - Avian,Domestic, Chicken,15,0,0
+33.061622,130.541079,Asia,Japan,Kumamoto,Nankan-machi,Centroid Locality,12-26-2016,01-10-2017,Confirmed,Influenza - Avian,Domestic, Chicken,91856,50,50
+36.991976,126.875214,Asia,Republic of Korea,Kyonggi-do,Pyeongtaek-si,Exact,12-25-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,27805,25,25
+51.76,9.95,Europe,Germany,Niedersachsen,Northeim,Exact,12-25-2016,12-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,26,10,10
+52.12,4.539,Europe,Netherlands,Zuid-holland,Zoeterwoude,Exact,12-24-2016,12-28-2016,Confirmed,Influenza - Avian,Domestic, Chicken,27000,869,869
+48.190734,17.024449,Europe,Slovakia,Bratislava,Bratislava,Exact,12-24-2016,12-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,65,65,64
+43.7889,-0.065833,Europe,France,Midi-Pyrenees,Caupenne d'Armagnac,Exact,12-22-2016,12-30-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9500,0,0
+51.968,4.756,Europe,Netherlands,Zuid-holland,Stolwijk,Exact,12-21-2016,12-28-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6594,39,39
+25.0307,121.48937,Asia,Taiwan (Province of China),Taiwan Sheng,Wanhua District,Unknown,12-21-2016,01-09-2017,Confirmed,Influenza - Avian,Domestic, Chicken,74,0,0
+51.864,5.544,Europe,Netherlands,Gelderland,Boven Leeuwen,Exact,12-19-2016,12-28-2016,Confirmed,Influenza - Avian,Domestic, Chicken,48082,240,240
+32.19197,131.525822,Asia,Japan,Miyazaki,Kawaminami-cho,Exact,12-19-2016,12-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,122000,100,100
+38.136227,127.25592,Asia,Republic of Korea,Kang-won-do,Pocheon-si,Exact,12-17-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,37975,34,34
+22.6326,120.362944,Asia,Taiwan (Province of China),Taiwan Sheng,Fengshan District,Unknown,12-17-2016,01-09-2017,Confirmed,Influenza - Avian,Domestic, Chicken,240,1,1
+53.3486,5.9717,Europe,Netherlands,Friesland,Hiaure,Exact,12-17-2016,12-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,28491,10,10
+38.054155,127.271483,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-16-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11001,12,12
+38.054155,127.271483,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-16-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,43295,70,70
+37.147391,127.60488,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-16-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,25536,30,30
+36.995361,127.198552,Asia,Republic of Korea,Kyonggi-do,Anseong-si,Exact,12-16-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,29642,34,34
+37.047336,126.770966,Asia,Republic of Korea,Kyonggi-do,Hwaseong-si,Exact,12-16-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,45013,92,92
+36.722252,127.1825,Asia,Republic of Korea,Chungchongnam-do,Sojeong-myeon,Exact,12-16-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,213020,20,20
+36.722252,127.1825,Asia,Republic of Korea,Chungchongnam-do,Sojeong-myeon,Exact,12-16-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,104020,20,20
+36.806072,126.899825,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,12-16-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,50074,74,74
+43.01135,142.884491,Asia,Japan,Hokkaidoo,Shimizu-cho,Exact,12-16-2016,12-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,283982,30,30
+36.793352,127.354588,Asia,Republic of Korea,Chungchongbuk-do,Cheonan-si,Exact,12-15-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,116070,130,130
+36.714172,127.241108,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-15-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,44997,300,300
+35.254744,129.224269,Asia,Republic of Korea,Kyongsangnam-do,Gijang-gun,Exact,12-15-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,11,4,4
+36.708033,127.197941,Asia,Republic of Korea,Chungchongnam-do,Sojeong-myeon,Exact,12-15-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,318170,170,170
+37.288191,127.537211,Asia,Republic of Korea,Kyonggi-do,Yeoju-si,Exact,12-15-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,46058,100,100
+37.091888,127.516219,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-15-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,47220,160,160
+37.046611,126.925455,Asia,Republic of Korea,Kyonggi-do,Pyeongtaek-si,Exact,12-15-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,25111,96,96
+35.59218,126.77128,Asia,Republic of Korea,Chollabuk-do,Jeongeup-si,Exact,12-15-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,8015,15,15
+46.933207,19.526557,Europe,Hungary,Bacs-kiskun,KerekegyhÃƒÂ¡za,Unknown,12-15-2016,12-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,156000,0,0
+46.597944,19.465916,Europe,Hungary,Bacs-kiskun,BÃƒÂ³csa,Unknown,12-15-2016,12-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,167000,0,0
+37.085572,127.513044,Asia,Republic of Korea,Kyonggi-do,Anseong-si,Exact,12-14-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,293350,400,400
+37.075716,127.564927,Asia,Republic of Korea,Chungchongbuk-do,Icheon-si,Exact,12-14-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,71370,100,100
+37.133116,127.545466,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-14-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,28200,300,300
+36.697972,127.155522,Asia,Republic of Korea,Chungchongnam-do,Jeonui-myeon,Exact,12-14-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,150020,20,20
+37.040455,127.533669,Asia,Republic of Korea,Chungchongbuk-do,Eumseong-gun,Exact,12-14-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,122888,100,100
+36.721788,127.144547,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-14-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,90000,0,0
+36.730897,127.138072,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-14-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,41500,40,40
+36.824622,126.979661,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,24612,12,12
+36.96248,127.109902,Asia,Republic of Korea,Kyonggi-do,Cheonan-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,559439,80,80
+37.031863,127.517291,Asia,Republic of Korea,Kyonggi-do,Eumseong-gun,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,14020,20,20
+36.722183,127.182966,Asia,Republic of Korea,Chungchongnam-do,Sojeong-myeon,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,110060,60,60
+38.055644,127.276955,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,36340,75,75
+37.199905,127.603038,Asia,Republic of Korea,Kyonggi-do,Yeoju-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,409394,590,590
+37.199905,127.603038,Asia,Republic of Korea,Kyonggi-do,Yeoju-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,418311,1000,1000
+37.088235,127.375861,Asia,Republic of Korea,Kyonggi-do,Anseong-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,43470,170,170
+37.106375,127.379713,Asia,Republic of Korea,Kyonggi-do,Yongin-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,235469,10,10
+37.108388,127.378908,Asia,Republic of Korea,Kyonggi-do,Yongin-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,108132,15,15
+37.106375,127.379713,Asia,Republic of Korea,Kyonggi-do,Yongin-si,Exact,12-13-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,205638,6,6
+37.662777,126.598425,Asia,Republic of Korea,Kyonggi-do,Gimpo-si,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,35,6,6
+37.067263,127.586794,Asia,Republic of Korea,Chungchongbuk-do,Eumseong-gun,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,7080,80,80
+36.588122,127.32408,Asia,Republic of Korea,Chungchongbuk-do,Cheongju-si,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,217,21,21
+36.720958,127.191125,Asia,Republic of Korea,Chungchongnam-do,Sojeong myeon,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,31000,100,100
+36.730966,127.169144,Asia,Republic of Korea,Chungchongnam-do,Sojeong-myeon,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,25015,15,15
+36.557972,127.310147,Asia,Republic of Korea,Chungchongbuk-do,Yeongdong-myeon,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,400126,126,126
+36.69048,127.173888,Asia,Republic of Korea,Chungchongnam-do,Jeonui-myeon,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,150200,200,200
+36.906294,127.44408,Asia,Republic of Korea,Chungchongbuk-do,Jincheon-gun,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,99485,400,400
+36.728121,127.146605,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,68444,40,40
+36.949984,127.159182,Asia,Republic of Korea,Kyonggi-do,Cheonan-si,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,105046,60,60
+36.738393,127.176814,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-12-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,33327,13,13
+53.0219,5.5675,Europe,Netherlands,Friesland,Abbega,Exact,12-12-2016,12-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,59439,500,500
+36.810583,127.321866,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-11-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,37912,36,36
+38.046772,127.260722,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-11-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,45886,10,10
+37.100344,127.488755,Asia,Republic of Korea,Kyonggi-do,Anseong-si,Exact,12-11-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,399065,61,61
+38.014241,127.190383,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-11-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,331702,15,15
+37.095002,127.006747,Asia,Republic of Korea,Kyonggi-do,Pyeongtaek-si,Exact,12-11-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,121665,4,4
+37.235055,127.478991,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-11-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,53248,27,27
+38.047443,127.262568,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-10-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,48840,33,33
+38.047443,127.262568,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-10-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,29595,200,200
+37.135902,127.578125,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-10-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,17300,200,200
+36.774177,127.099713,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,12-10-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,812,12,12
+36.580869,127.374027,Asia,Republic of Korea,Chungchongbuk-do,Cheongju-si,Exact,12-10-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,35965,100,100
+36.909245,127.670669,Asia,Republic of Korea,Chungchongbuk-do,Eumseong-gun,Exact,12-09-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,89784,20,20
+38.125061,127.290908,Asia,Republic of Korea,Kyonggi-do,Cheolwon-gun,Exact,12-09-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,15790,15,15
+37.123955,127.608855,Asia,Republic of Korea,Chungchongbuk-do,Icheon-si,Exact,12-09-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,24989,20,20
+37.165433,127.401205,Asia,Republic of Korea,Kyonggi-do,Yongin-si,Exact,12-09-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,193215,20,20
+37.103569,126.956016,Asia,Republic of Korea,Kyonggi-do,Hwaseong-si,Exact,12-08-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,423950,113,113
+37.073983,127.528058,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-08-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,75690,218,218
+36.789341,126.930994,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,12-08-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,60009,20,9
+36.789341,126.930994,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,12-08-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,240190,190,190
+36.876377,127.519756,Asia,Republic of Korea,Chungchongbuk-do,Jincheon-gun,Exact,12-07-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,92534,34,34
+37.111525,127.502441,Asia,Republic of Korea,Kyonggi-do,Anseong-si,Exact,12-07-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,59500,100,100
+37.258769,127.562825,Asia,Republic of Korea,Kyonggi-do,Yeoju-si,Exact,12-07-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,208205,30,30
+38.101633,127.284434,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-06-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,67500,65,65
+37.185594,127.542383,Asia,Republic of Korea,Kyonggi-do,Yeoju-si,Exact,12-06-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,129383,103,103
+36.88963,127.639041,Asia,Republic of Korea,Chungchongbuk-do,Eumseong-gun,Exact,12-06-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,73200,200,200
+36.512575,127.376425,Asia,Republic of Korea,Chungchongbuk-do,Bugang-myeon,Exact,12-06-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,70050,50,50
+31.737024,34.723034,Asia,Israel,Southern District,Beer Toviyya,Exact,12-06-2016,12-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,22000,2000,500
+38.0435,46.532,Asia,Iran  (Islamic Republic of),East Azarbayejan,Simorghetokhmtala Farm,Exact,12-06-2016,12-18-2016,Confirmed,Influenza - Avian,Domestic, Chicken,53000,18000,463
+36.541194,127.339525,Asia,Republic of Korea,Taejon,Yeongdong-myeon,Exact,12-05-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1300,100,100
+36.960938,127.863708,Asia,Republic of Korea,Chungchongbuk-do,Chungju-si,Exact,12-05-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,147,10,10
+36.736683,127.128077,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-05-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,125430,50,50
+38.102311,127.285009,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-05-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,68643,48,48
+37.155577,127.538902,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-05-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,22955,55,55
+46.5511,19.6728,Europe,Hungary,Bacs-kiskun,Szank,Exact,12-05-2016,12-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,20,0,0
+38.042025,127.269413,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-04-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,29380,20,20
+38.042025,127.269413,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-04-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,23704,66,66
+37.12423,127.551855,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-04-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,10030,30,30
+38.042025,127.269413,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-04-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,187949,25,25
+36.75065,127.11418,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-04-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,160605,25,25
+36.75065,127.11418,Asia,Republic of Korea,Chungchongnam-do,Cheonan-si,Exact,12-04-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,43080,600,600
+37.055016,127.519516,Asia,Republic of Korea,Kyonggi-do,Eumseong-gun,Exact,12-04-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,201446,82,82
+36.609491,127.3328,Asia,Republic of Korea,Chungchongbuk-do,Cheongju-si,Exact,12-04-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1000,500,500
+44.071944,2.097778,Europe,France,Midi-Pyrenees,MonastiÃƒÂ©s,Exact,12-04-2016,12-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,7000,50,50
+37.125844,127.52803,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-03-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,95860,91,91
+37.063991,127.54553,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-03-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,622144,125,125
+37.236369,127.505216,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-03-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,371926,20,20
+38.154402,127.262388,Asia,Republic of Korea,Kang-won-do,Pocheon-si,Exact,12-03-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,160260,100,100
+37.032386,126.882764,Asia,Republic of Korea,Kyonggi-do,Pyeongtaek-si,Exact,12-03-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,571320,125,125
+34.8564,50.8555,Asia,Iran  (Islamic Republic of),Ghom,Yusefi Farm,Exact,12-03-2016,12-18-2016,Confirmed,Influenza - Avian,Domestic, Chicken,119579,50000,75
+38.106813,127.286366,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,29926,14,14
+38.106813,127.286366,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,18396,20,20
+38.106813,127.286366,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,31280,20,20
+38.106813,127.286366,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,34623,11,11
+38.106813,127.286366,Asia,Republic of Korea,Kyonggi-do,Pocheon-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,27905,3000,3000
+37.11523,127.535188,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,59251,20,20
+36.845727,126.89028,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,160100,100,100
+36.786105,126.936477,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,200300,300,300
+36.786105,126.936477,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,4741,241,241
+36.879683,127.496813,Asia,Republic of Korea,Chungchongbuk-do,Jincheon-gun,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,200175,175,175
+37.050908,127.533322,Asia,Republic of Korea,Kyonggi-do,Eumseong-gun,Exact,12-02-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,126020,20,20
+47.4258,47.2987,Europe,Russian Federation,Astrakhanskaya Oblast,Kharablinskaya,Exact,12-02-2016,12-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,54360,5100,5100
+36.863697,127.494983,Asia,Republic of Korea,Chungchongbuk-do,Jincheon-gun,Exact,12-01-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,30210,210,210
+36.596905,127.326827,Asia,Republic of Korea,Chungchongbuk-do,Cheongju-si,Exact,12-01-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,163462,41,41
+35.237544,126.780477,Asia,Republic of Korea,Chollanam-do,Jangseong-gun,Exact,12-01-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,1757,50,50
+37.041566,127.139463,Asia,Republic of Korea,Kyonggi-do,Anseong-si,Exact,12-01-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,39246,500,500
+43.86233,0.101967,Europe,France,Midi-Pyrenees,Eauze,Exact,12-01-2016,12-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1640,100,100
+43.2342,0.0025,Europe,France,Midi-Pyrenees,Ibos,Exact,12-01-2016,12-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1000,0,0
+44.1017,2.1675,Europe,France,Midi-Pyrenees,Almayrac,Exact,12-01-2016,12-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6120,300,300
+44.549167,0.535833,Europe,France,Aquitaine,Monbahus,Exact,12-01-2016,12-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4950,200,200
+43.947222,0.286111,Europe,France,Midi-Pyrenees,Beaumont sur l''''Osse,Exact,12-01-2016,12-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,690,100,100
+43.5008,0.2139,Europe,France,Midi-Pyrenees,Monlezun,Exact,12-01-2016,12-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,15600,100,100
+38.119677,127.29093,Asia,Republic of Korea,Kyonggi-do,Cheolwon-gun,Exact,11-30-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,31670,50,50
+37.089536,126.975977,Asia,Republic of Korea,Kyonggi-do,Hwaseong-si,Exact,11-29-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,21622,200,200
+46.4697,19.8419,Europe,Hungary,Bacs-kiskun,KÃƒÂ¶mpÃƒÂ¶c,Exact,11-29-2016,12-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,70000,0,0
+37.807875,126.973,Asia,Republic of Korea,Kyonggi-do,Yangju-si,Exact,11-28-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,15941,0,0
+35.71038,50.80541,Asia,Iran  (Islamic Republic of),Tehran,Damanabi Farm,Exact,11-28-2016,12-03-2016,Confirmed,Influenza - Avian,Domestic, Chicken,30995,9000,750
+35.66856,50.79544,Asia,Iran  (Islamic Republic of),Tehran,Toyurparvaran Eram,Exact,11-28-2016,12-03-2016,Confirmed,Influenza - Avian,Domestic, Chicken,218987,32030,398
+36.943075,127.535905,Asia,Republic of Korea,Chungchongbuk-do,Eumseong-gun,Exact,11-27-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,83130,130,130
+36.640777,127.25995,Asia,Republic of Korea,Chungchongbuk-do,Jeondong-myeon,Exact,11-26-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,700650,650,650
+37.794216,126.979958,Asia,Republic of Korea,Kyonggi-do,Yangju-si,Exact,11-26-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,97435,580,580
+37.248711,127.505447,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,11-26-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,203314,450,450
+37.054338,127.247719,Asia,Republic of Korea,Kyonggi-do,Anseong-si,Exact,11-25-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,27206,550,550
+37.140711,127.537694,Asia,Republic of Korea,Kyonggi-do,Icheon-si,Exact,11-25-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,159523,200,200
+36.771744,126.955952,Asia,Republic of Korea,Chungchongnam-do,Asan-si,Exact,11-23-2016,05-04-2017,Confirmed,Influenza - Avian,Domestic, Chicken,53000,3000,3000
+31.756684,34.67755,Asia,Israel,Southern District,SEDE UZZIYYAHU,Unknown,11-22-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,42750,0,0
+10.0514,9.0432,Africa,Nigeria,Bauchi,Toro,Exact,11-21-2016,11-28-2016,Confirmed,Influenza - Avian,Domestic, Chicken,514,274,274
+55.995309,13.441772,Europe,Sweden,Skaane Laen,Skane Lan,Centroid Locality,11-21-2016,11-24-2016,Confirmed,Influenza - Avian,Domestic, Chicken,153000,37000,435
+37.801392,126.972725,Asia,Republic of Korea,Kyonggi-do,Yangju-si,Exact,11-20-2016,11-24-2016,Confirmed,Influenza - Avian,Domestic, Chicken,15500,240,240
+24.355329,120.579181,Asia,Taiwan (Province of China),Taiwan Sheng,DaÃ¢â‚¬â„¢an District,Exact,11-16-2016,12-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,750,0,0
+5.1908,6.6513,Africa,Nigeria,Rivers,Ikwere,Exact,11-15-2016,11-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,800,54,54
+4.984795,6.920082,Africa,Nigeria,Rivers,Ikwere,Unknown,11-14-2016,11-17-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,196,196
+33.082342,35.283452,Asia,Israel,Northern,Shomera 3,Unknown,11-08-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,2400,0,0
+33.082342,35.283452,Asia,Israel,Northern,Shomera,Unknown,11-08-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,2400,0,0
+33.082342,35.283452,Asia,Israel,Northern,Shomera,Unknown,11-02-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,3500,0,0
+33.063432,35.219191,Asia,Israel,Northern,ELON,Unknown,11-01-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,60000,6000,800
+5.035649,6.873486,Africa,Nigeria,Rivers,Ikwerre,Centroid Admin2,10-28-2016,11-01-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,50,50
+5.5749,-0.33302,Africa,Ghana,Greater Accra,Upper Weija,Exact,10-26-2016,11-23-2016,Confirmed,Influenza - Avian,Domestic, Chicken,650,389,389
+5.54664,-0.31106,Africa,Ghana,Greater Accra,Tettegu,Exact,10-24-2016,11-23-2016,Confirmed,Influenza - Avian,Domestic, Chicken,900,423,423
+23.86125,120.422528,Asia,Taiwan (Province of China),Taiwan Sheng,Zhutang Township,Unknown,09-28-2016,10-17-2016,Confirmed,Influenza - Avian,Domestic, Chicken,28200,5192,5192
+9.2204,7.736,Africa,Nigeria,Nassarawa,Koso,Exact,09-13-2016,09-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,100000,10000,10000
+6.64778,6.23292,Africa,Nigeria,Edo,Oshimili,Exact,09-12-2016,09-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,100,90,90
+8.986736,10.03513,Africa,Nigeria,Plateau,Toro,Exact,09-11-2016,09-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9700,104,104
+5.59915,-0.08999,Africa,Ghana,Greater Accra,Nungua Estates,Exact,09-08-2016,09-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,400,119,119
+5.5855,-0.1155,Africa,Ghana,Greater Accra,Teshie South Sutsuruno,Exact,08-18-2016,09-10-2016,Confirmed,Influenza - Avian,Domestic, Chicken,300,121,121
+5.53493,-0.43527,Africa,Ghana,Central,Kasoa American Town,Exact,08-14-2016,08-31-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1036,972,972
+5.59962,-0.8984,Africa,Ghana,Central,Teshie Nungua Estates,Exact,08-13-2016,09-10-2016,Confirmed,Influenza - Avian,Domestic, Chicken,200,25,25
+5.60388,-0.34729,Africa,Ghana,Greater Accra,Juma,Exact,08-02-2016,08-31-2016,Confirmed,Influenza - Avian,Domestic, Chicken,390,200,200
+5.354455,-4.258067,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Yopougon (Songon Agba AttiÃƒÂ©),Exact,07-27-2016,10-03-2016,Confirmed,Influenza - Avian,Domestic, Chicken,70000,44634,44634
+5.54519,-0.39011,Africa,Ghana,Greater Accra,Mallam Kokrokoo,Exact,07-20-2016,08-31-2016,Confirmed,Influenza - Avian,Domestic, Chicken,702,20,20
+45.08139,1.359444,Europe,France,Aquitaine,LA DORNAC,Unknown,07-13-2016,07-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4400,1000,1000
+5.331072,-4.238687,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Songon -Aghan,Exact,07-04-2016,07-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4100,1070,1070
+5.329782,-4.238762,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Songon-Agban,Exact,07-04-2016,07-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1070,507,507
+22.6336,120.364,Asia,Taiwan (Province of China),Taiwan Sheng,Fengshan District,Exact,07-03-2016,07-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,541,2,2
+5.54708,-0.42547,Africa,Ghana,Central,Kasoa,Exact,07-03-2016,07-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1500,734,734
+5.54819,-0.38646,Africa,Ghana,Greater Accra,Old Amanfro,Exact,07-01-2016,07-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,250,250,250
+5.54819,-0.38646,Africa,Ghana,Greater Accra,Old Amanfro,Exact,06-30-2016,08-31-2016,Confirmed,Influenza - Avian,Domestic, Chicken,250,250,250
+5.29464,-3.783389,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Eloka-Bingerville,Exact,06-24-2016,07-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,27453,2483,2483
+25.0302,121.49,Asia,Taiwan (Province of China),Taiwan Sheng,Wanhua District,Exact,06-23-2016,07-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,103,1,1
+6.42202,2.90235,Africa,Nigeria,Lagos,Olorunda,Exact,06-22-2016,06-28-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4000,1355,1355
+5.5772,-0.2413,Africa,Ghana,Greater Accra,Accra Academy Secondary School,Exact,06-11-2016,06-28-2016,Confirmed,Influenza - Avian,Domestic, Chicken,900,812,812
+6.76478,-1.7972,Africa,Ghana,Ashanti,Amadom Adankwame,Exact,06-10-2016,06-28-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4808,3132,3132
+3.829693,11.479581,Africa,Cameroon,Centre,Jouvence,Unknown,06-03-2016,07-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,831,300,300
+8.8508,7.1715,Africa,Nigeria,Abuja,Busaru,Exact,06-03-2016,06-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,400,40,40
+2.930124,11.147616,Africa,Cameroon,Sud,New-Bell,Unknown,06-01-2016,07-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6000,1439,1439
+3.832964,11.470791,Africa,Cameroon,Centre,AkoudouÃƒÂ© II (Biyem Assi),Unknown,05-30-2016,07-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,500,200,200
+23.7379,120.23,Asia,Taiwan (Province of China),Taiwan Sheng,Taixi Township,Exact,05-30-2016,06-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,13580,3224,3224
+24.3349,120.714,Asia,Taiwan (Province of China),Taiwan Sheng,Waipu District,Exact,05-27-2016,06-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,495,68,68
+3.755666,11.46825,Africa,Cameroon,Centre,Mekounou - Afanoyoa,Unknown,05-26-2016,07-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5813,30,30
+2.909731,11.14532,Africa,Cameroon,Sud,Angale,Unknown,05-24-2016,07-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,500,200,200
+3.950039,11.498142,Africa,Cameroon,Centre,Nkolodom,Unknown,05-23-2016,07-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,500,133,133
+2.938355,11.14659,Africa,Cameroon,Sud,John Holth,Unknown,05-23-2016,07-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,66,66,66
+19.879192,-103.599221,Americas,Mexico,Jalisco,Sayula,Unknown,05-11-2016,06-01-2016,Confirmed,Influenza - Avian,Domestic, Chicken,151000,15,0
+33.8707,36.1399,Asia,Lebanon,Bekaa,Sariin Tehta,Exact,05-10-2016,06-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,126000,20000,20000
+23.0091,120.308,Asia,Taiwan (Province of China),Taiwan Sheng,Guanmiao District,Exact,04-29-2016,05-05-2016,Confirmed,Influenza - Avian,Domestic, Chicken,8470,3583,3583
+44.727647,11.857355,Europe,Italy,Emilia-romagna,Ferrara,Exact,04-29-2016,05-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,17000,2000,600
+44.727647,11.857355,Europe,Italy,Emilia-romagna,Ferrara,Exact,04-29-2016,05-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,17000,2000,600
+24.3585,120.575,Asia,Taiwan (Province of China),Taiwan Sheng,DaÃ¢â‚¬â„¢an District,Exact,04-28-2016,06-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,19,0,0
+5.51299,-0.45118,Africa,Ghana,Central,CP Roman,Exact,04-25-2016,05-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9000,1278,1278
+5.51299,-0.45118,Africa,Ghana,Central,CP Roman,Exact,04-25-2016,05-15-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9000,1278,1278
+22.6073,120.417,Asia,Taiwan (Province of China),Taiwan Sheng,Daliao Distict,Exact,04-20-2016,05-05-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1085,5,5
+18.555901,-97.578911,Americas,Mexico,Puebla,Tepanco de LÃƒÂ³pez,Exact,04-20-2016,04-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5,5,0
+5.591509,-0.226957,Africa,Ghana,Greater Accra,Ablekuma NIC,Centroid Admin2,04-15-2016,04-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1746,393,393
+6.14182,0.05132,Africa,Ghana,Eastern,Kpong,Exact,04-14-2016,05-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4791,2107,2107
+5.29234,-1.98894,Africa,Ghana,Western,Brenukyim,Exact,04-12-2016,04-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,252,102,102
+20.783257,-102.911966,Americas,Mexico,Jalisco,Acatic,Exact,04-12-2016,04-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,161000,1,0
+17.03111,-97.928973,Americas,Mexico,Oaxaca,Putla Villa de Guerrero,Exact,04-09-2016,04-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1300,1203,1203
+45.11046,26.0801,Europe,Romania,Prahova,Gornet,Exact,04-07-2016,04-11-2016,Confirmed,Newcastle Disease,Domestic, Chicken,70000,13314,4455
+22.6073,120.417,Asia,Taiwan (Province of China),Taiwan Sheng,Daliao District,Exact,04-06-2016,04-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,615,2,2
+18.555901,-97.578922,Americas,Mexico,Puebla,Tepanco de LÃƒÂ³pez,Exact,04-05-2016,04-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,500,313,313
+19.796812,-97.303159,Americas,Mexico,Puebla,Jalacingo,Exact,04-05-2016,04-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,8,7,7
+18.821123,-97.166337,Americas,Mexico,Veracruz,Nogales,Exact,04-05-2016,04-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,10000,500,200
+32.155077,34.896806,Asia,Israel,Central District,HOD HASHARON,Exact,04-05-2016,04-17-2016,Confirmed,Newcastle Disease,Domestic, Chicken,12200,0,0
+6.14182,0.05132,Africa,Ghana,Eastern,Abusia Kope,Exact,04-03-2016,04-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3940,2210,2210
+9.83279,8.86445,Africa,Nigeria,Plateau,Bamkap,Exact,04-01-2016,04-03-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4878,76,76
+9.85405,8.85002,Africa,Nigeria,Plateau,Rantya,Exact,03-31-2016,04-03-2016,Confirmed,Influenza - Avian,Domestic, Chicken,204,2,2
+9.8802,8.0058,Africa,Nigeria,Kaduna,Ranya Lowcost,Exact,03-31-2016,04-03-2016,Confirmed,Influenza - Avian,Domestic, Chicken,13536,200,200
+32.364533,35.032089,Asia,Israel,Central District,ZEMER,Exact,03-25-2016,04-17-2016,Confirmed,Newcastle Disease,Domestic, Chicken,10,10,5
+9.8737,8.8479,Africa,Nigeria,Plateau,Rantiya low cost,Exact,03-20-2016,03-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,8995,206,206
+12.2634,7.3414,Africa,Nigeria,Katsina,Dutsin Ma,Exact,03-20-2016,03-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,90,90
+6.3408,5.6636,Africa,Nigeria,Edo,Ikpoba Ikha,Exact,03-19-2016,03-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,410,410
+12.0833,8.5131,Africa,Nigeria,Kano,Ungogo,Exact,03-18-2016,03-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,120,15,15
+11.9474,8.5126,Africa,Nigeria,Kano,Kumbotso,Exact,03-17-2016,03-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,779,17,17
+9.891,8.8015,Africa,Nigeria,Plateau,Rantya,Exact,03-16-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1600,14,14
+21.672895,100.018669,Asia,Myanmar,Shan (E),Monglar,Exact,03-15-2016,02-07-2017,Confirmed,Influenza - Avian,Domestic, Chicken,300,5,0
+32.465471,34.997862,Asia,Israel,Haifa,GAN HASHOMERON,Exact,03-15-2016,04-17-2016,Confirmed,Newcastle Disease,Domestic, Chicken,22000,0,0
+22.633621,120.36407,Asia,Taiwan (Province of China),Taiwan Sheng,Fengshan District,Exact,03-15-2016,04-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,677,13,13
+9.83539,8.86236,Africa,Nigeria,Plateau,Rantya,Exact,03-15-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,934,100,100
+6.5371,5.5671,Africa,Nigeria,Edo,Oredo,Exact,03-14-2016,03-18-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3550,620,620
+6.3619,5.6247,Africa,Nigeria,Edo,Ikpoba,Exact,03-14-2016,03-18-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,323,323
+6.3408,5.6636,Africa,Nigeria,Edo,Ikpoba,Exact,03-14-2016,03-18-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1000,62,62
+6.3463,5.6394,Africa,Nigeria,Edo,Ikpoba,Exact,03-14-2016,03-18-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3200,430,430
+11.9237,8.4609,Africa,Nigeria,Kano,Kumbotso,Exact,03-14-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,200,200
+11.9293,8.4444,Africa,Nigeria,Kano,Kumbotso,Exact,03-14-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4275,60,60
+12.0167,8.5959,Africa,Nigeria,Kano,Nasarawa,Exact,03-14-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,531,32,32
+12.8512,7.7048,Africa,Nigeria,Katsina,Rimi,Exact,03-13-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,193,193
+11.7268,8.2254,Africa,Nigeria,Kano,Kura,Exact,03-13-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,152,40,40
+5.316667,-4.033333,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Treicheville main market,Exact,03-12-2016,07-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,90,1,0
+5.316667,-4.033333,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Cocovico Cocody angrÃƒÂ© market,Exact,03-12-2016,07-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,110,1,0
+5.424809,-4.018842,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Abobo main market,Exact,03-12-2016,07-27-2016,Confirmed,Influenza - Avian,Domestic, Chicken,200,1,0
+12.9057,5.3396,Africa,Nigeria,Sokoto,Dange,Exact,03-12-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6000,1135,1135
+12.1925,8.6281,Africa,Nigeria,Kano,Minjibir,Exact,03-12-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5701,58,58
+11.883,8.6275,Africa,Nigeria,Kano,Minjibir,Exact,03-12-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,11567,220,220
+9.8369,8.92143,Africa,Nigeria,Plateau,Ranya Lowcost,Exact,03-12-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4300,110,110
+33.050647,35.406542,Asia,Israel,Northern,Dovev,Exact,03-11-2016,04-17-2016,Confirmed,Newcastle Disease,Domestic, Chicken,2450,0,0
+33.050647,35.406542,Asia,Israel,Northern,Dovev,Exact,03-11-2016,04-17-2016,Confirmed,Newcastle Disease,Domestic, Chicken,5800,0,0
+12.0651,6.5366,Africa,Nigeria,Zamfara,Bungudu,Exact,03-11-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3000,57,57
+11.8399,8.3192,Africa,Nigeria,Kano,D/Tofa,Exact,03-10-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2108,300,300
+12.9057,5.3396,Africa,Nigeria,Sokoto,Dange,Exact,03-10-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6000,1135,1135
+11.9166,8.2852,Africa,Nigeria,Kano,Madobi,Exact,03-10-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4200,10,10
+10.2684,9.2693,Africa,Nigeria,Bauchi,Toro,Exact,03-10-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,61000,2251,2251
+9.79097,8.85703,Africa,Nigeria,Plateau,Rantiya low cost,Exact,03-09-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,465,7,7
+9.83465,8.86254,Africa,Nigeria,Plateau,Rantiya low cost,Exact,03-09-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,380,60,60
+12.2638,7.297,Africa,Nigeria,Katsina,Batagarawa,Exact,03-08-2016,03-20-2016,Confirmed,Influenza - Avian,Domestic, Chicken,51303,1364,1364
+9.90154,8.88745,Africa,Nigeria,Plateau,Jos,Exact,03-08-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,850,11,11
+9.82847,8.85518,Africa,Nigeria,Plateau,Rantya,Exact,03-07-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,970,100,100
+9.86116,8.8265,Africa,Nigeria,Plateau,Ranya Lowcost,Exact,03-07-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,845,20,20
+9.83391,8.86002,Africa,Nigeria,Plateau,Ranya Lowcost,Exact,03-07-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,517,26,26
+9.87092,8.83276,Africa,Nigeria,Plateau,Rantya,Exact,03-07-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1520,105,105
+9.9422,8.8762,Africa,Nigeria,Plateau,Jos,Exact,03-07-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,800,130,130
+12.0868,8.8291,Africa,Nigeria,Kano,Dawakin Tofa,Exact,03-06-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2050,62,62
+10.45244,8.6452,Africa,Nigeria,Kaduna,Lere,Exact,03-06-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3500,80,80
+12.0934,8.4993,Africa,Nigeria,Kano,Ungogo,Exact,03-04-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,111,28,28
+10.1621,9.2597,Africa,Nigeria,Bauchi,Toro,Exact,03-04-2016,03-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5000,263,263
+12.0951,8.7611,Africa,Nigeria,Kano,Gezawa,Exact,03-02-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1350,220,220
+11.8424,8.5765,Africa,Nigeria,Kano,Dawakin Kudu,Exact,03-01-2016,03-14-2016,Confirmed,Influenza - Avian,Domestic, Chicken,270,29,29
+12.1636,6.6164,Africa,Nigeria,Zamfara,Gusau,Exact,03-01-2016,03-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,8699,228,228
+9.9006,8.88721,Africa,Nigeria,Plateau,Bauchi rd,Exact,03-01-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,248,5,5
+9.85348,8.01702,Africa,Nigeria,Kaduna,Angware,Exact,02-29-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,39763,1500,1500
+11.9851,8.5014,Africa,Nigeria,Kano,Gwale,Exact,02-29-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,18,4,4
+9.89944,8.88723,Africa,Nigeria,Plateau,Jos,Exact,02-29-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2050,53,53
+9.85348,8.01702,Africa,Nigeria,Kaduna,Angware,Exact,02-29-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,39763,1500,1500
+11.9869,8.5598,Africa,Nigeria,Kano,Tarauni,Exact,02-29-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,350,20,20
+11.9311,8.4784,Africa,Nigeria,Kano,Kumbotso,Exact,02-27-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,850,150,150
+9.83053,8.85663,Africa,Nigeria,Plateau,Rantya,Exact,02-27-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,456,30,30
+8.70243,9.13629,Africa,Nigeria,Plateau,Dadin Kova,Exact,02-27-2016,02-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1050,570,570
+11.9948,8.5748,Africa,Nigeria,Kano,Nasarawa,Exact,02-26-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1050,19,19
+11.5489,7.8216,Africa,Nigeria,Kano,Rogo,Exact,02-26-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,186,20,20
+11.9069,8.2326,Africa,Nigeria,Kano,Kabo,Exact,02-26-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2350,65,65
+9.85261,8.85594,Africa,Nigeria,Plateau,Rantya,Exact,02-26-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,458,5,5
+11.9289,8.4725,Africa,Nigeria,Kano,Kumbotso,Exact,02-26-2016,02-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,300,60,60
+11.9974,8.3536,Africa,Nigeria,Kano,Tofa,Exact,02-25-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,68000,53,53
+23.8713,120.29,Asia,Taiwan (Province of China),Taiwan Sheng,Dacheng Township,Exact,02-24-2016,03-07-2016,Confirmed,Influenza - Avian,Domestic, Chicken,13500,3024,3024
+9.82682,8.86258,Africa,Nigeria,Plateau,Rantya,Exact,02-24-2016,03-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6451,400,400
+10.5761,7.6445,Africa,Nigeria,Kaduna,Kaduna,Exact,02-24-2016,02-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2886,366,366
+9.83577,8.8589,Africa,Nigeria,Plateau,Rantya,Exact,02-22-2016,02-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1078,41,41
+11.9836,8.5111,Africa,Nigeria,Kano,Gwale,Exact,02-22-2016,02-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1040,35,35
+13.5262,2.0614,Africa,Niger,Niamey,"Poultry centre, Niamey",Exact,02-21-2016,06-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,86000,86000,86000
+11.9746,8.5631,Africa,Nigeria,Kano,Tarauni,Exact,02-20-2016,02-29-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2017,45,45
+32.850651,35.206337,Asia,Israel,Northern,TAMRA,Exact,02-19-2016,02-28-2016,Confirmed,Newcastle Disease,Domestic, Chicken,20000,650,343
+33.052265,35.499688,Asia,Israel,Northern,ALMA,Exact,02-19-2016,02-28-2016,Confirmed,Newcastle Disease,Domestic, Chicken,3400,0,0
+11.91763,8.50142,Africa,Nigeria,Kano,Kumbotso,Exact,02-17-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3490,82,82
+11.92787,8.52308,Africa,Nigeria,Kano,Kumbotso,Exact,02-16-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5120,50,50
+11.9293,8.4901,Africa,Nigeria,Kano,Kumbotso,Exact,02-15-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,230,20,20
+9.9542,8.9007,Africa,Nigeria,Plateau,Jos,Exact,02-15-2016,02-17-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6200,100,100
+12.00601,8.5147,Africa,Nigeria,Kano,Dala,Exact,02-14-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,200,38,38
+12.0018,8.5774,Africa,Nigeria,Kano,Nasarawa,Exact,02-14-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1050,29,29
+9.86176,8.86206,Africa,Nigeria,Plateau,Ranya Lowcost,Exact,02-14-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4500,20,20
+12.0553,8.2763,Africa,Nigeria,Kano,Tofa,Exact,02-13-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,987,30,30
+11.9993,8.5744,Africa,Nigeria,Kano,Nasarawa,Exact,02-12-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,70,10,10
+11.9993,8.5654,Africa,Nigeria,Kano,Nasarawa,Exact,02-12-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,940,47,47
+11.9025,8.3049,Africa,Nigeria,Kano,Gwale,Exact,02-12-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,120,35,35
+11.6844,8.3736,Africa,Nigeria,Kano,Garum Mallam,Exact,02-12-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4600,190,190
+11.9261,8.5024,Africa,Nigeria,Kano,Kumbotso,Exact,02-11-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,952,85,85
+22.5203,120.4588,Asia,Taiwan (Province of China),Taiwan Sheng,Xinyuan Township,Exact,02-11-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9000,5912,5912
+9.9099,8.80471,Africa,Nigeria,Plateau,Bassa,Exact,02-11-2016,02-15-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6884,200,200
+12.9065,7.6162,Africa,Nigeria,Katsina,Batagarawa,Exact,02-10-2016,02-17-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5000,60,60
+32.469227,35.132937,Asia,West Bank,Jenin,REHAN,Exact,02-09-2016,02-28-2016,Confirmed,Newcastle Disease,Domestic, Chicken,76000,1000,500
+12.60031,6.58975,Africa,Nigeria,Zamfara,K/Namoda,Exact,02-09-2016,02-15-2016,Confirmed,Influenza - Avian,Domestic, Chicken,18000,3435,3435
+9.84788,8.84769,Africa,Nigeria,Plateau,Rantya,Exact,02-08-2016,02-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2820,228,228
+11.6526,8.0497,Africa,Nigeria,Kano,Rimin Gado,Exact,02-07-2016,02-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,470,10,10
+12.0327,8.3675,Africa,Nigeria,Kano,Nasarawa,Exact,02-07-2016,02-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,920,70,70
+12.0279,8.1075,Africa,Nigeria,Kano,Garo,Exact,02-07-2016,02-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,300,20,20
+9.90324,8.86647,Africa,Nigeria,Plateau,Jos,Exact,02-07-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,650,19,19
+33.050647,35.406542,Asia,Israel,Northern,Dovev,Exact,02-06-2016,02-28-2016,Confirmed,Newcastle Disease,Domestic, Chicken,2200,0,0
+12.0832,8.0904,Africa,Nigeria,Kano,Rogo,Exact,02-06-2016,02-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,500,20,20
+11.8302,8.4642,Africa,Nigeria,Kano,Kumbotso,Exact,02-06-2016,02-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,930,142,142
+9.89697,8.87025,Africa,Nigeria,Plateau,Jos,Exact,02-06-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2569,156,156
+11.9246,8.5016,Africa,Nigeria,Kano,Kumbotso,Exact,02-06-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3000,447,447
+10.2254,7.2434,Africa,Nigeria,Kaduna,Kurmin Mashi,Exact,02-06-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9602,3638,3638
+10.2254,7.2434,Africa,Nigeria,Kaduna,Kurmin Mashi,Exact,02-06-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9602,3638,3638
+23.0552,120.1895,Asia,Taiwan (Province of China),Taiwan Sheng,Annan District,Exact,02-05-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,11750,6031,6031
+11.9653,8.6563,Africa,Nigeria,Kano,D/Kudu,Exact,02-05-2016,02-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,10209,52,52
+8.906,7.161,Africa,Nigeria,Abuja,Kuje,Exact,02-05-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,13511,55,55
+8.9204,7.5599,Africa,Nigeria,Nassarawa,Municipal,Exact,02-05-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,512,3,3
+12.0917,8.4911,Africa,Nigeria,Kano,Ungogo,Exact,02-05-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1300,80,80
+12.582,4.1874,Africa,Nigeria,Kebbi,Brinin Kebbi,Exact,02-04-2016,02-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1500,600,600
+10.01864,8.946,Africa,Nigeria,Plateau,Toro,Exact,02-04-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3000,6,6
+8.652314,7.2632,Africa,Nigeria,Abuja,Kuje,Centroid Admin2,02-04-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,702,70,70
+12.0941,8.7622,Africa,Nigeria,Kano,Gezawa,Exact,02-04-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,300,50,50
+8.652314,7.2632,Africa,Nigeria,Abuja,Kuje,Centroid Admin2,02-04-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,804,18,18
+43.440634,-0.464145,Europe,France,Aquitaine,MAZEROLLES,Exact,02-03-2016,02-09-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4400,80,80
+12.1557,8.1403,Africa,Nigeria,Kano,Bagwai,Exact,02-03-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,450,85,85
+11.9237,8.5141,Africa,Nigeria,Kano,Kumbotso,Exact,02-03-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9475,110,110
+8.652314,7.2632,Africa,Nigeria,Abuja,Kuje,Centroid Admin2,02-03-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1061,29,29
+11.8439,8.5991,Africa,Nigeria,Kano,Dawakin Kudu,Exact,02-03-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5206,48,48
+11.9295,8.5136,Africa,Nigeria,Kano,Kumbotso,Exact,02-03-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,972,15,15
+10.4431,8.6568,Africa,Nigeria,Kaduna,Lere,Exact,02-03-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1700,52,52
+12.4314,9.1934,Africa,Nigeria,Jigawa,Gearki,Exact,02-03-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5000,750,750
+41.7713,25.154,Europe,Bulgaria,Kardzhali,Nenkovo,Exact,02-02-2016,02-10-2016,Confirmed,Newcastle Disease,Domestic, Chicken,301,61,61
+12.07458,8.43428,Africa,Nigeria,Kano,Ganye,Exact,02-02-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,7200,1950,1950
+11.9732,8.5509,Africa,Nigeria,Kano,Tarauni,Exact,02-02-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3068,49,49
+6.3702,8.0583,Africa,Nigeria,Ebonyi,Ohuakwu,Exact,02-02-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1950,195,195
+11.9881,8.5145,Africa,Nigeria,Kano,Gwale,Exact,02-02-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,300,50,50
+11.9855,8.5604,Africa,Nigeria,Kano,Nasarawa,Exact,02-02-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3010,130,130
+9.88797,8.86548,Africa,Nigeria,Plateau,Rantya,Exact,02-02-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,690,48,48
+12.43466,9.27883,Africa,Nigeria,Jigawa,Yola,Exact,02-02-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,700,230,230
+9.79105,8.86725,Africa,Nigeria,Plateau,Bukuru,Exact,02-02-2016,02-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,785,31,31
+12.8039,9.4489,Africa,Nigeria,Jigawa,Maigatari,Exact,02-01-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3105,800,800
+11.9865,8.5213,Africa,Nigeria,Kano,Kano,Exact,02-01-2016,02-08-2016,Confirmed,Influenza - Avian,Domestic, Chicken,120,29,29
+11.8632,8.5441,Africa,Nigeria,Kano,Kumbotso,Exact,02-01-2016,02-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2500,67,67
+11.9281,8.5045,Africa,Nigeria,Kano,Dawakin Kudu,Exact,02-01-2016,02-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4500,350,350
+9.86902,8.8493,Africa,Nigeria,Plateau,Rantya,Exact,02-01-2016,02-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,370,6,6
+9.86465,8.8257,Africa,Nigeria,Plateau,Rantya,Exact,02-01-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2035,26,26
+11.556505,8.584152,Africa,Nigeria,Kano,Rano,Exact,01-31-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,711,62,62
+11.984845,8.519137,Africa,Nigeria,Kano,Gwale,Exact,01-31-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2,1,1
+32.542269,35.264879,Asia,Israel,Northern,BARAQ,Exact,01-30-2016,02-28-2016,Confirmed,Newcastle Disease,Domestic, Chicken,140000,35000,5000
+8.85206,9.86908,Africa,Nigeria,Plateau,Rantya,Exact,01-30-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,216,15,15
+11.926601,8.513924,Africa,Nigeria,Kano,Kumbotso,Exact,01-30-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,400,13,13
+8.896,7.172,Africa,Nigeria,Abuja,Kuje,Exact,01-30-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4625,73,73
+23.9001,120.337,Asia,Taiwan (Province of China),Taiwan Sheng,Fangyuan Township,Exact,01-29-2016,02-22-2016,Confirmed,Influenza - Avian,Domestic, Chicken,16012,4420,4420
+11.665465,8.257631,Africa,Nigeria,Kano,Bebeji,Exact,01-29-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,200000,1562,1562
+9.93557,8.90053,Africa,Nigeria,Plateau,Jos,Exact,01-29-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1890,100,100
+11.576,8.2453,Africa,Nigeria,Kano,Kumbotso,Exact,01-27-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,670,100,100
+33.050647,35.406542,Asia,Israel,Northern,Dovev,Exact,01-26-2016,02-28-2016,Confirmed,Newcastle Disease,Domestic, Chicken,2200,0,0
+-23.57635,23.05502,Africa,Botswana,Kgalagadi,Mokhaneng,Exact,01-24-2016,04-04-2016,Confirmed,Newcastle Disease,Domestic, Chicken,300,248,218
+9.9597,8.8061,Africa,Nigeria,Plateau,Rantya,Exact,01-23-2016,01-26-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1137,23,23
+9.9351,8.8354,Africa,Nigeria,Plateau,Katako,Exact,01-23-2016,01-26-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5630,180,180
+22.611,120.348,Asia,Taiwan (Province of China),Taiwan Sheng,Fengshan District,Exact,01-22-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,426,1,1
+10.2471,8.9696,Africa,Nigeria,Bauchi,Kwanga,Exact,01-22-2016,01-26-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1586,42,42
+9.9302,8.7966,Africa,Nigeria,Plateau,Rantya,Exact,01-22-2016,01-26-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3210,105,105
+9.9137,8.9531,Africa,Nigeria,Plateau,Dogon Karfe,Exact,01-21-2016,01-26-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4490,9,9
+10.3021,7.5287,Africa,Nigeria,Kaduna,Dogorawa,Exact,01-21-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,9150,1285,1285
+9.8778,8.8159,Africa,Nigeria,Plateau,Tudun wada,Exact,01-20-2016,01-26-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6091,77,77
+10.2658,7.6273,Africa,Nigeria,Kaduna,Kakuri,Exact,01-20-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,928,35,35
+8.8364,7.3932,Africa,Nigeria,Abuja,Kuje,Exact,01-20-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2480,80,80
+8.8195,7.3764,Africa,Nigeria,Abuja,Kuje,Exact,01-20-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3206,16,16
+11.7962,8.3195,Africa,Nigeria,Kano,Kumbotso,Exact,01-20-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4500,150,150
+9.7804,8.8257,Africa,Nigeria,Plateau,Rantya,Exact,01-20-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,8000,1000,1000
+10.7986,7.4805,Africa,Nigeria,Kaduna,Igabi,Exact,01-19-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4526,559,559
+12.0993,8.7091,Africa,Nigeria,Kano,Gezawa,Exact,01-19-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,800,106,106
+11.8827,8.3436,Africa,Nigeria,Kano,Ungogo,Exact,01-19-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3200,219,219
+11.8156,8.2328,Africa,Nigeria,Kano,Kumbotso,Exact,01-18-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2660,116,116
+11.8058,8.3821,Africa,Nigeria,Kano,Gwale,Exact,01-18-2016,01-25-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1733,32,32
+9.86291,8.86645,Africa,Nigeria,Plateau,Miango road,Exact,01-17-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,10000,309,309
+8.9998,7.5039,Africa,Nigeria,Abuja,Karu,Exact,01-17-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,350,160,160
+12.0954,8.0974,Africa,Nigeria,Kano,Kumbotso,Exact,01-16-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1520,11,11
+11.9215,8.3623,Africa,Nigeria,Kano,Nasarawa,Exact,01-16-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1350,35,35
+11.8833,8.1555,Africa,Nigeria,Kano,Kumbotso,Exact,01-16-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,800,58,58
+6.6784,5.8533,Africa,Nigeria,Edo,Osawaru,Exact,01-15-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6700,14,14
+11.97697,8.55474,Africa,Nigeria,Kano,Tarauni,Exact,01-15-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,810,85,85
+12.0014,8.4324,Africa,Nigeria,Kano,Gwale,Exact,01-14-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,750,48,48
+11.7869,8.2038,Africa,Nigeria,Kano,Kumbotso,Exact,01-14-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5577,150,150
+11.9412,8.2375,Africa,Nigeria,Kano,Kumbotso,Exact,01-14-2016,01-21-2016,Confirmed,Influenza - Avian,Domestic, Chicken,8373,247,247
+11.8977,8.6129,Africa,Nigeria,Kano,Tofa,Exact,01-14-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1516,58,58
+9.7953,8.8446,Africa,Nigeria,Plateau,Bukuru,Exact,01-14-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,500,150,150
+11.8353,8.3343,Africa,Nigeria,Kano,Kura,Exact,01-14-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,300,60,60
+9.6678,12.5598,Africa,Nigeria,Adamawa,Tounga,Exact,01-13-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,21000,1200,1200
+9.9388,8.8356,Africa,Nigeria,Plateau,Jos,Exact,01-13-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,150,50,50
+5.35,-3.9,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Bingerville,Exact,01-12-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1150,150,100
+6.2545,7.9745,Africa,Nigeria,Ebonyi,Abakaliki,Exact,01-12-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,250,75,75
+5.8655,6.2552,Africa,Nigeria,Delta,Aniocha,Exact,01-12-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1609,402,402
+11.8428,8.3842,Africa,Nigeria,Kano,Kura,Exact,01-12-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5970,49,49
+11.6324,8.3775,Africa,Nigeria,Kano,Kumbotso,Exact,01-12-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,850,19,19
+10.0163,8.7776,Africa,Nigeria,Plateau,Rantya,Exact,01-12-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3500,150,150
+10.6033,7.3045,Africa,Nigeria,Kaduna,Kaduna,Exact,01-12-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,30000,150,150
+9.8726,8.811,Africa,Nigeria,Plateau,Bukuru,Exact,01-12-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,650,50,50
+11.6423,8.4833,Africa,Nigeria,Kano,Gwale,Exact,01-12-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,150,11,11
+6.594,7.4559,Africa,Nigeria,Enugu,Enugu,Exact,01-11-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3000,1885,1885
+12.9149,7.5431,Africa,Nigeria,Katsina,Dandume,Exact,01-11-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,900,94,94
+31.889818,34.841674,Asia,Israel,Central District,SITRIYYA,Exact,01-10-2016,02-28-2016,Confirmed,Newcastle Disease,Domestic, Chicken,5000,0,0
+10.1332,9.1579,Africa,Nigeria,Bauchi,Toro,Exact,01-10-2016,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2411,1500,1500
+9.7752,8.8652,Africa,Nigeria,Plateau,Bukuru,Exact,01-10-2016,01-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3200,320,320
+5.1422,6.3178,Africa,Nigeria,Bayelsa,Yenegoa,Exact,01-09-2016,01-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3000,850,850
+11.9323,8.2902,Africa,Nigeria,Kano,Kumbotso,Exact,01-09-2016,01-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,7824,66,66
+10.0021,8.845,Africa,Nigeria,Plateau,Jos,Exact,01-09-2016,01-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,7000,3000,3000
+9.8095,8.888,Africa,Nigeria,Plateau,Angle D,Exact,01-09-2016,01-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,391,11,11
+56.09982,-3.44544,Europe,U.K. of Great Britain and Northern Ireland,Scotland,Townhill,Exact,01-08-2016,01-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,40000,0,0
+8.7376,7.2557,Africa,Nigeria,Abuja,Kuje,Exact,01-08-2016,01-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,180000,18000,18000
+11.6277,8.6373,Africa,Nigeria,Kano,Tofa,Exact,01-08-2016,01-13-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2918,66,66
+33.032723,35.321941,Asia,Israel,Northern,ELQOSH,Unknown,01-07-2016,01-18-2017,Confirmed,Newcastle Disease,Domestic, Chicken,2456,0,0
+6.8595,7.5283,Africa,Nigeria,Enugu,Udi,Exact,01-07-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,500,500
+11.5649,8.3197,Africa,Nigeria,Kano,Kumbotso,Exact,01-06-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,5635,83,83
+8.652314,7.2632,Africa,Nigeria,Abuja,Kuje,Centroid Admin2,01-06-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,80000,20000,20000
+23.6384,120.293,Asia,Taiwan (Province of China),Taiwan Sheng,Yuanchang Township,Exact,01-05-2016,01-15-2016,Confirmed,Influenza - Avian,Domestic, Chicken,18000,5228,5228
+9.7945,8.9078,Africa,Nigeria,Plateau,Bukuru,Exact,01-05-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1000,76,76
+11.2478,8.3868,Africa,Nigeria,Kano,T/Wada,Exact,01-05-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2500,300,300
+43.301682,1.164933,Europe,France,Midi-Pyrenees,LAFFITTE VIGORDANE,Exact,01-04-2016,01-12-2016,Confirmed,Influenza - Avian,Domestic, Chicken,17000,480,480
+6.7006,5.3698,Africa,Nigeria,Edo,Okah,Exact,01-04-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,4200,420,420
+11.9023,8.4639,Africa,Nigeria,Kano,Kano,Exact,01-04-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,6900,171,171
+11.7411,8.7071,Africa,Nigeria,Kano,Tofa,Exact,01-04-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,46,46
+8.6553,6.9331,Africa,Nigeria,Abuja,Gwagwalada,Exact,01-04-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1125,112,112
+11.6397,8.1674,Africa,Nigeria,Kano,Kumbotso,Exact,01-03-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,530,30,30
+5.316667,-4.033333,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Youpougon (Azito),Exact,01-02-2016,02-02-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1573,1022,1022
+9.030175,7.58305,Africa,Nigeria,Nassarawa,Karu,Exact,01-02-2016,01-11-2016,Confirmed,Influenza - Avian,Domestic, Chicken,10500,1635,1635
+33.011818,35.440697,Asia,Israel,Northern,KEFAR HOSHEN,Exact,01-01-2016,01-24-2016,Confirmed,Newcastle Disease,Domestic, Chicken,2700,0,0
+23.7991,120.359,Asia,Taiwan (Province of China),Taiwan Sheng,Erlun Township,Exact,01-01-2016,01-15-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3110,2669,2669
+22.8921,120.227,Asia,Taiwan (Province of China),Taiwan Sheng,Hunei District,Exact,12-28-2015,01-15-2016,Confirmed,Influenza - Avian,Domestic, Chicken,3600,60,60
+5.426107,-4.014872,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Grand marchÃƒÂ© dÃ¢â‚¬â„¢Abobo,Exact,12-24-2015,01-26-2016,Confirmed,Influenza - Avian,Domestic, Chicken,2000,3,3
+22.6336,120.364,Asia,Taiwan (Province of China),Taiwan Sheng,Fengshan Dist,Exact,12-24-2015,01-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,311,11,11
+23.8594,120.284,Asia,Taiwan (Province of China),Taiwan Sheng,Dacheng Township,Exact,12-21-2015,01-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,14275,3900,3900
+33.082342,35.283452,Asia,Israel,Northern,Shomera,Exact,12-20-2015,01-24-2016,Confirmed,Newcastle Disease,Domestic, Chicken,3750,0,0
+32.954985,35.456587,Asia,Israel,Northern,KEFAR SHAMMAY,Exact,12-20-2015,01-24-2016,Confirmed,Newcastle Disease,Domestic, Chicken,4100,0,0
+45.293999,0.405341,Europe,France,Aquitaine,CELLES,Exact,12-20-2015,01-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,200,6,6
+6.321333,7.50868,Africa,Nigeria,Enugu,Nkanu West,Centroid Admin2,12-18-2015,01-05-2016,Confirmed,Influenza - Avian,Domestic, Chicken,120000,25000,25000
+25.0302,121.49,Asia,Taiwan (Province of China),Taiwan Sheng,Wanhua District,Exact,12-15-2015,01-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,36,2,2
+32.770302,35.044118,Asia,Israel,Haifa,NESHER,Exact,12-13-2015,01-24-2016,Confirmed,Newcastle Disease,Domestic, Chicken,40,30,20
+6.459487,3.330435,Africa,Nigeria,Lagos,Ojo,Exact,12-12-2015,12-15-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1800,1500,1500
+10.804954,7.706704,Africa,Nigeria,Kaduna,Igabi,Exact,12-12-2015,12-15-2015,Confirmed,Influenza - Avian,Domestic, Chicken,7500,1500,1500
+23.856,120.407,Asia,Taiwan (Province of China),Taiwan Sheng,Zhutang Township,Exact,12-07-2015,01-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,19397,587,587
+22.7272,120.531,Asia,Taiwan (Province of China),Taiwan Sheng,Yanpu Township,Exact,12-07-2015,01-04-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1648,273,273
+5.61873,-0.08008,Africa,Ghana,Greater Accra,Community 18,Exact,12-04-2015,12-25-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1020,107,107
+33.082342,35.283452,Asia,Israel,Northern,Shomera,Exact,12-03-2015,12-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2200,0,0
+5.71633,0.00175,Africa,Ghana,Greater Accra,Saki,Exact,12-02-2015,12-25-2015,Confirmed,Influenza - Avian,Domestic, Chicken,17461,520,520
+5.59011,-0.18666,Africa,Ghana,Greater Accra,37 Military Hospital Residence,Exact,11-30-2015,12-25-2015,Confirmed,Influenza - Avian,Domestic, Chicken,40,7,7
+5.59011,-0.18666,Africa,Ghana,Greater Accra,37 Military Hospital Residence,Exact,11-30-2015,12-25-2015,Confirmed,Influenza - Avian,Domestic, Chicken,40,7,7
+33.037909,35.468598,Asia,Israel,Northern,KEREM BEN ZIMRA,Exact,11-30-2015,12-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2200,0,0
+5.349512,-4.001496,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Cocody CitÃƒÂ© CIE,Exact,11-29-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,160,85,85
+5.64766,-0.26143,Africa,Ghana,Greater Accra,Ofankor,Exact,11-27-2015,12-25-2015,Confirmed,Influenza - Avian,Domestic, Chicken,8801,0,0
+33.050647,35.406542,Asia,Israel,Northern,Dovev,Exact,11-27-2015,12-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,18000,400,200
+33.050647,35.406542,Asia,Israel,Northern,Dovev,Exact,11-25-2015,12-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,12000,250,120
+22.6759,120.55536,Asia,Taiwan (Province of China),Taiwan Sheng,Changzhi Township,Exact,11-23-2015,12-08-2015,Confirmed,Influenza - Avian,Domestic, Chicken,21000,10440,10440
+24.0122,121.60667,Asia,Taiwan (Province of China),Taiwan Sheng,Hualien City,Exact,11-17-2015,12-08-2015,Confirmed,Influenza - Avian,Domestic, Chicken,59,4,4
+5.655489,0.017753,Africa,Ghana,Greater Accra,Tema Metropolitan area,Exact,11-17-2015,11-29-2015,Confirmed,Influenza - Avian,Domestic, Chicken,600,17,17
+6.4644,2.9058,Africa,Nigeria,Lagos,Ojo,Exact,11-17-2015,11-24-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2000,140,140
+22.668,120.56178,Asia,Taiwan (Province of China),Taiwan Sheng,Changzhi Township,Exact,11-16-2015,12-08-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2019,138,138
+45.288611,0.639444,Europe,France,Aquitaine,Biras,Exact,11-14-2015,11-24-2015,Confirmed,Influenza - Avian,Domestic, Chicken,32,22,22
+4.9269,6.2462,Africa,Nigeria,Bayelsa,Yenagoa,Exact,11-11-2015,11-16-2015,Confirmed,Influenza - Avian,Domestic, Chicken,22800,1800,1800
+11.9217,8.3868,Africa,Nigeria,Kano,Dala,Exact,11-11-2015,11-16-2015,Confirmed,Influenza - Avian,Domestic, Chicken,136,136,136
+5.8455,6.6586,Africa,Nigeria,Delta,Onitsha,Exact,11-04-2015,11-16-2015,Confirmed,Influenza - Avian,Domestic, Chicken,4000,1000,1000
+5.1405,6.5571,Africa,Nigeria,Rivers,Obio,Exact,11-04-2015,11-16-2015,Confirmed,Influenza - Avian,Domestic, Chicken,4700,189,189
+22.736,121.135,Asia,Taiwan (Province of China),Taiwan Sheng,Taitung City,Exact,10-20-2015,10-30-2015,Confirmed,Influenza - Avian,Domestic, Chicken,750,6,0
+33.056217,35.235249,Asia,Israel,Northern,GOREN,Exact,10-18-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,85000,2500,1000
+5.1912,6.6462,Africa,Nigeria,Rivers,Eneka,Exact,10-17-2015,10-27-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3500,1000,1000
+33.056217,35.235249,Asia,Israel,Northern,GOREN,Exact,10-16-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,50000,3000,1200
+33.047202,35.179578,Asia,Israel,Northern,AVDON,Exact,10-15-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,90000,1500,700
+5.0801,6.5452,Africa,Nigeria,Rivers,Obio/Akpor,Exact,10-15-2015,10-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,257,60,60
+5.1477,6.5691,Africa,Nigeria,Rivers,Obio/Akpor,Exact,10-15-2015,10-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2900,250,250
+23.8631,120.299,Asia,Taiwan (Province of China),Taiwan Sheng,Dacheng Township,Exact,10-14-2015,10-30-2015,Confirmed,Influenza - Avian,Domestic, Chicken,22000,1940,1940
+33.052265,35.499688,Asia,Israel,Northern,ALMA,Exact,10-13-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,10000,500,100
+33.020118,35.10681,Asia,Israel,Northern,SAÃ¢â‚¬â„¢AR,Exact,10-13-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,32000,0,0
+5.1912,6.6076,Africa,Nigeria,Rivers,Obio/Akpor,Exact,10-13-2015,10-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3000,200,200
+23.848333,120.308889,Asia,Taiwan (Province of China),Taiwan Sheng,Dacheng,Exact,10-11-2015,10-18-2015,Confirmed,Influenza - Avian,Domestic, Chicken,20554,495,495
+4.854844,6.995852,Africa,Nigeria,Rivers,Obio/Akpor,Centroid Admin2,10-11-2015,10-14-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2500,50,50
+4.854844,6.995852,Africa,Nigeria,Rivers,Obio/Akpor,Centroid Admin2,10-09-2015,10-14-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1000,150,150
+4.91285,-1.88394,Africa,Ghana,Western,Kejebri,Exact,10-09-2015,10-10-2015,Confirmed,Influenza - Avian,Domestic, Chicken,4731,1658,1658
+5.2416,6.5907,Africa,Nigeria,Rivers,Obio/Akpor,Exact,10-01-2015,10-06-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1120,500,500
+5.0944,6.632,Africa,Nigeria,Rivers,Obio/Akpor,Exact,09-30-2015,10-06-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3100,550,550
+5.0317,6.7092,Africa,Nigeria,Rivers,Obio,Exact,09-30-2015,10-06-2015,Confirmed,Influenza - Avian,Domestic, Chicken,600,100,100
+22.3587,103.6442,Asia,Viet Nam,Lai Chau,"Binh Lu, Binh Lu",Exact,09-29-2015,09-30-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1005,801,801
+5.1574,6.5835,Africa,Nigeria,Rivers,Obio/Akpor,Exact,09-28-2015,10-06-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3818,572,572
+5.114,6.9785,Africa,Nigeria,Rivers,Port Harcourt,Exact,09-27-2015,10-06-2015,Confirmed,Influenza - Avian,Domestic, Chicken,600,100,100
+5.1573,6.5356,Africa,Nigeria,Rivers,Obio/Akpor,Exact,09-22-2015,09-28-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2100,315,315
+4.91013,-1.77363,Africa,Ghana,Western,West Tanokrom,Exact,09-21-2015,10-08-2015,Confirmed,Influenza - Avian,Domestic, Chicken,400,14,14
+5.4831,7.4586,Africa,Nigeria,Abia,"Aba, Aba North",Exact,09-21-2015,09-28-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3300,495,495
+5.1282,6.6465,Africa,Nigeria,Rivers,Obio/Akpor,Exact,09-21-2015,09-28-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2673,637,637
+4.7936,7.00035,Africa,Nigeria,Rivers,"Obio, Obio/Akpor",Exact,09-21-2015,09-28-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3218,1000,1000
+5.0656,6.5645,Africa,Nigeria,Rivers,"Obio, Obio/Akpor",Exact,09-20-2015,09-28-2015,Confirmed,Influenza - Avian,Domestic, Chicken,800,120,120
+5.022,6.6994,Africa,Nigeria,Rivers,"Rum, Obio/Akpor",Exact,09-19-2015,09-22-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1005,80,80
+5.0799,6.5451,Africa,Nigeria,Rivers,Obio/Akpor,Exact,09-18-2015,09-28-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1209,181,181
+5.1213,6.6293,Africa,Nigeria,Rivers,Uzuoaba,Exact,09-18-2015,09-22-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3000,450,450
+5.1139,6.7235,Africa,Nigeria,Rivers,Rumuagholu,Exact,09-18-2015,09-22-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2500,200,200
+7.40985,6.87012,Africa,Nigeria,Kogi,Nsukka,Exact,09-18-2015,09-24-2015,Confirmed,Influenza - Avian,Domestic, Chicken,550,58,58
+5.0753,6.521,Africa,Nigeria,Rivers,Obia/Akpor,Exact,09-18-2015,09-23-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1209,181,181
+5.0222,6.5499,Africa,Nigeria,Rivers,Iga,Exact,09-17-2015,09-22-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2305,345,345
+4.826403,7.003788,Africa,Nigeria,Rivers,Obio/Akpor,Exact,09-16-2015,09-18-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2500,470,470
+23.4476,120.24309,Asia,Taiwan (Province of China),Taiwan Sheng,Puzi City,Exact,09-14-2015,12-08-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1200,964,964
+23.2308,120.28309,Asia,Taiwan (Province of China),Taiwan Sheng,Xiaying District,Exact,09-14-2015,12-08-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1800,365,365
+4.831876,7.017521,Africa,Nigeria,Rivers,Obio/Akpor,Exact,09-11-2015,09-18-2015,Confirmed,Influenza - Avian,Domestic, Chicken,6000,1800,1800
+8.8024,7.0799,Africa,Nigeria,Abuja,Abuja Municipal,Exact,09-10-2015,09-11-2015,Confirmed,Influenza - Avian,Domestic, Chicken,800,400,400
+5.3129,6.6298,Africa,Nigeria,Rivers,Rumapu-Rukpokwu,Exact,09-04-2015,09-14-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2482,806,806
+5.3781,6.627,Africa,Nigeria,Rivers,Rumuosi,Exact,09-03-2015,09-14-2015,Confirmed,Influenza - Avian,Domestic, Chicken,19769,730,730
+6.46113,3.1535,Africa,Nigeria,Lagos,Ojo,Exact,09-03-2015,09-03-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2500,298,298
+6.46191,3.15788,Africa,Nigeria,Lagos,Ojo,Exact,09-03-2015,09-03-2015,Confirmed,Influenza - Avian,Domestic, Chicken,4000,50,50
+5.426107,-4.014872,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Grand MarchÃƒÂ© Abobo,Exact,08-26-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,1500,0,0
+5.417623,-4.009333,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,MarchÃƒÂ© Abobo Kennedy Clouecha,Exact,08-26-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,900,1,0
+6.613857,3.569331,Africa,Nigeria,Lagos,Ikorodu,Centroid Admin2,08-26-2015,08-26-2015,Confirmed,Influenza - Avian,Domestic, Chicken,256,229,229
+4.854844,6.995852,Africa,Nigeria,Rivers,Obio/Akpor,Centroid Admin2,08-24-2015,08-24-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1200,900,900
+4.854844,6.995852,Africa,Nigeria,Rivers,Obio/Akpor,Centroid Admin2,08-24-2015,08-24-2015,Confirmed,Influenza - Avian,Domestic, Chicken,700,600,600
+6.63544,3.54275,Africa,Nigeria,Lagos,Poro Mosan,Exact,08-23-2015,08-26-2015,Confirmed,Influenza - Avian,Domestic, Chicken,256,229,229
+6.64377,3.54238,Africa,Nigeria,Lagos,Erikorodu,Exact,08-21-2015,09-03-2015,Confirmed,Influenza - Avian,Domestic, Chicken,4646,630,630
+6.6087,3.3344,Africa,Nigeria,Lagos,"Moro Mope, Ikorodu",Exact,08-18-2015,09-03-2015,Confirmed,Influenza - Avian,Domestic, Chicken,391,71,71
+7.41753,3.7984,Africa,Nigeria,Oyo,Olohun,Exact,08-17-2015,09-22-2015,Confirmed,Influenza - Avian,Domestic, Chicken,13203,5826,5826
+9.516,105.9374,Asia,Viet Nam,Soc Trang,Tham Don,Exact,08-16-2015,08-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,114,114,102
+6.260771,6.197462,Africa,Nigeria,Delta,Angbor,Exact,08-12-2015,09-03-2015,Confirmed,Influenza - Avian,Domestic, Chicken,400,250,100
+5.25556,-3.96444,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,"Port-Bouet district, district",Exact,08-11-2015,09-01-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3329,3329,2689
+6.14083,6.12486,Africa,Nigeria,Delta,Boji-Boji Owa,Exact,08-10-2015,09-03-2015,Confirmed,Influenza - Avian,Domestic, Chicken,220,150,26
+6.45583,3.21958,Africa,Nigeria,Lagos,"Aiyedoto, Ojo",Exact,08-09-2015,08-17-2015,Confirmed,Influenza - Avian,Domestic, Chicken,350,58,58
+-23.9989,21.78,Africa,Botswana,Kgalagadi,Hukuntsi,Exact,08-08-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,50,8,5
+23.8572,120.288,Asia,Taiwan (Province of China),Taiwan Sheng,"Dacheng township, Changhua county",Exact,08-08-2015,08-24-2015,Confirmed,Influenza - Avian,Domestic, Chicken,38000,5312,5312
+6.5583,3.51977,Africa,Nigeria,Lagos,Vicdumez farm,Exact,08-08-2015,08-12-2015,Confirmed,Influenza - Avian,Domestic, Chicken,900,238,238
+6.45583,3.21958,Africa,Nigeria,Lagos,"Aiyedoto, Ojo",Exact,08-06-2015,08-17-2015,Confirmed,Influenza - Avian,Domestic, Chicken,500,22,22
+-24.6464,25.9119,Africa,Botswana,South-East,Extension 16,Exact,08-05-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,100,8,7
+-24.5736,25.9666,Africa,Botswana,South-East,Sebele,Exact,08-04-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,140,2,1
+32.9326098386,35.3538839746,Asia,Israel,Northern,"SHEZOR, Acco",Exact,08-03-2015,09-16-2015,Confirmed,Newcastle Disease,Domestic, Chicken,3000,0,0
+32.9549853478,35.4565872414,Asia,Israel,Northern,KEFAR SHAMMAY,Exact,08-03-2015,09-16-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2300,0,0
+5.56605,-0.32058,Africa,Ghana,Greater Accra,Weija,Exact,08-01-2015,08-14-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2357,957,957
+-24.8667,25.8167,Africa,Botswana,South-East,Ramotswa,Exact,07-31-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,620,110,80
+-20.8564,27.6743,Africa,Botswana,North East,Siviya,Exact,07-30-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,35,23,20
+7.43787,3.77219,Africa,Nigeria,Oyo,"Omi Addio, Ani Victor Farm",Exact,07-30-2015,08-12-2015,Confirmed,Influenza - Avian,Domestic, Chicken,319,284,284
+7.4337,3.84138,Africa,Nigeria,Oyo,Vision Faith Farm,Exact,07-30-2015,08-12-2015,Confirmed,Influenza - Avian,Domestic, Chicken,633,367,367
+6.613857,3.569331,Africa,Nigeria,Lagos,Ikorodu,Centroid Admin2,07-30-2015,08-06-2015,Confirmed,Influenza - Avian,Domestic, Chicken,41476,946,946
+5.350378,-4.075573,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,MarchÃƒÂ© Gourou Yopougon banco,Exact,07-29-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,600,7,0
+4.960494,7.073826,Africa,Nigeria,Rivers,Ikwere,Exact,07-29-2015,09-24-2015,Confirmed,Influenza - Avian,Domestic, Chicken,4000,1500,1500
+4.85572,7.09774,Africa,Nigeria,Rivers,Umuoko Aluu,Exact,07-29-2015,08-17-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1850,350,350
+23.8366,120.287,Asia,Taiwan (Province of China),Taiwan Sheng,"Dacheng township, Changhua county",Exact,07-29-2015,08-11-2015,Confirmed,Influenza - Avian,Domestic, Chicken,50600,8207,8207
+5.363664,-4.097576,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,MarchÃƒÂ© Gesco Yopougon,Exact,07-28-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,800,10,0
+-24.4167,26.15,Africa,Botswana,Kgatleng,Mochudi,Exact,07-28-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,31,5,1
+4.92129,6.90532,Africa,Nigeria,Rivers,Umuoko Aluu,Exact,07-27-2015,08-04-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1850,350,350
+6.48383,3.73583,Africa,Nigeria,Lagos,Lakowe,Exact,07-27-2015,08-04-2015,Confirmed,Influenza - Avian,Domestic, Chicken,7700,6786,6786
+5.356089,-3.940261,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,MarchÃƒÂ© Akouedo village,Exact,07-23-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,400,1,0
+5.444604,-4.018409,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,MarchÃƒÂ© Abobo BC,Exact,07-23-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,600,2,0
+5.309194,-3.96219,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,MarchÃƒÂ© Anoumabo Marcory,Exact,07-23-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,500,1,0
+5.307288,-3.964239,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Grand Sans fil Marcory,Exact,07-23-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,400,5,0
+5.417623,-4.009333,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,MarchÃƒÂ© Abobo Kennedy,Exact,07-23-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,500,1,0
+5.329935,-3.975179,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,Grand marchÃƒÂ© Marcory,Exact,07-23-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,950,4,0
+5.357001,-3.928194,Africa,CÃƒÂ´te d'Ivoire,District autonome de Abidjan,MarchÃƒÂ© Akouedo AttiÃƒÂ©,Exact,07-23-2015,01-19-2016,Confirmed,Influenza - Avian,Domestic, Chicken,350,2,0
+-21.2815,27.4725,Africa,Botswana,North East,"Tati Siding, Francistown",Centroid Admin1,07-22-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,588,303,300
+33.089297,35.469822,Asia,Israel,Northern,AVIVIM,Exact,07-19-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2200,0,0
+5.686376,-3.194947,Africa,CÃƒÂ´te d'Ivoire,Comoe,"Bassam, Modeste, Aboisso",Centroid Admin2,07-17-2015,08-25-2015,Confirmed,Influenza - Avian,Domestic, Chicken,27652,20286,20286
+-20.6667,27.4167,Africa,Botswana,North East,Masunga,Exact,07-15-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,14,2,2
+-21.1736,27.5125,Africa,Botswana,North East,Kgari,Exact,07-15-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,370,22,20
+-19.9833,23.4167,Africa,Botswana,Ngamiland,New Mall,Exact,07-14-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,28,3,1
+33.032723,35.321941,Asia,Israel,Northern,ELQOSH,Exact,07-12-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,3800,0,0
+-19.9833,23.4167,Africa,Botswana,Ngamiland,Maun,Exact,07-09-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,21,13,11
+-21.9758,27.84,Africa,Botswana,Central,Selibe Phikwe,Exact,07-07-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,20,3,3
+-21.9758,27.84,Africa,Botswana,Central,Letlhakane,Exact,07-07-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,93,14,7
+32.4114280156,35.0373150588,Asia,Israel,Haifa,BAQA -JATT,Exact,06-15-2015,09-16-2015,Confirmed,Newcastle Disease,Domestic, Chicken,12,9,9
+-22.3755,26.7102,Africa,Botswana,Central,Basimane,Exact,06-15-2015,09-11-2015,Confirmed,Newcastle Disease,Domestic, Chicken,51,28,28
+32.906406,35.395525,Asia,Israel,Northern,HAZON,Exact,06-08-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2986,0,0
+7.7811,-4.9547,Africa,CÃƒÂ´te d'Ivoire,Vallee Du Bandama,"Amanibo 2, Bouake",Exact,05-18-2015,09-01-2015,Confirmed,Influenza - Avian,Domestic, Chicken,4000,3644,1280
+12.991605,7.635769,Africa,Nigeria,Katsina,Katsina,Exact,04-25-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,81200,260,260
+32.982229,35.326154,Asia,Israel,Northern,PEQIÃ¢â‚¬â„¢IN HADASHA,Exact,04-22-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2300,0,0
+13.093282,7.273221,Africa,Nigeria,Katsina,Jibiya,Exact,04-22-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1950,650,650
+33.085025,35.312372,Asia,Israel,Northern,SHETULA,Exact,04-16-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,4387,0,0
+32.217223,34.867958,Asia,Israel,Central District,BENE ZIYYON,Exact,04-10-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,23500,0,0
+33.008433,35.227742,Asia,Israel,Northern,EN YAÃ¢â‚¬â„¢AQOV,Exact,03-25-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2800,0,0
+33.032723,35.321941,Asia,Israel,Northern,ELQOSH,Exact,03-24-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2700,0,0
+13.093282,7.372097,Africa,Nigeria,Katsina,Jibiya,Exact,03-08-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3000,30,30
+33.067038,35.188138,Asia,Israel,Northern,YAÃ¢â‚¬â„¢ARA,Exact,03-05-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2200,0,0
+33.008433,35.227742,Asia,Israel,Northern,EN YAÃ¢â‚¬â„¢AQOV,Exact,03-04-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,2200,0,0
+33.008433,35.227742,Asia,Israel,Northern,EN YAÃ¢â‚¬â„¢AQOV,Exact,03-01-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,3700,0,0
+12.922012,5.108914,Africa,Nigeria,Sokoto,Bodinga,Exact,02-24-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,5000,1280,1280
+9.126938,7.586331,Africa,Nigeria,Nassarawa,Bakori,Exact,02-23-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2500,1400,1400
+11.580028,7.344632,Africa,Nigeria,Katsina,Bakori,Exact,02-21-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,650,120,120
+13.014,5.0719,Africa,Nigeria,Sokoto,"Dange, D/Shuni",Exact,02-14-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1500,352,352
+12.632727,7.509427,Africa,Nigeria,Katsina,Rimi,Exact,02-13-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3360,105,105
+32.93261,35.353884,Asia,Israel,Northern,SHEZOR,Exact,02-12-2015,11-15-2015,Confirmed,Newcastle Disease,Domestic, Chicken,3800,0,0
+13.2709,4.8435,Africa,Nigeria,Sokoto,"Gwiwa Low cost, Wamako",Exact,02-11-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,500,225,225
+10.307245,9.855008,Africa,Nigeria,Bauchi,Bauchi,Exact,02-06-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,3030,652,652
+10.318283,9.278934,Africa,Nigeria,Bauchi,Toro,Centroid Admin2,02-05-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2700,10,10
+13.515594,6.278958,Africa,Nigeria,Sokoto,Sabon Brinin,Exact,01-29-2015,09-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,1000,49,49
+31.889818,34.841674,Asia,Israel,Central District,SITRIYYA,Exact,01-12-2015,01-24-2016,Confirmed,Newcastle Disease,Domestic, Chicken,5000,0,0
+5.1791,6.6631,Africa,Nigeria,Rivers,Obio/Akpor,Exact,01-08-2015,11-19-2015,Confirmed,Influenza - Avian,Domestic, Chicken,2100,310,310
